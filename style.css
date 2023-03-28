@@ -106,6 +106,34 @@ a:hover {
     color: rgb(184, 182, 182);
 }
 
+.chip {
+    background: rgb(171, 53, 53);
+    padding: 1px 3px 1px 3px;
+    border-radius: 4px;
+    user-select: none;
+}
+
+.filter-list {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.filter-list>.filter-flex {
+    display: grid;
+    gap: 5px;
+    grid-template-columns: 90px 80px 90px;
+}
+
+.filter-list>.filter-flex .checkbox-wrapper {
+    display: flex;
+    gap: 3px;
+    vertical-align: middle;
+}
+
+.filter-list>.filter-flex .checkbox-wrapper span {
+    margin-top: -1px;
+}
+
 .bottom-rounded .search::placeholder {
     color: rgb(184, 182, 182);
 }

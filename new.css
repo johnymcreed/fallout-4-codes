@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle&display=swap');
+
+:root body.dark {
+    --theme-background: rgb(35, 38, 47);
+    --theme-breadcrumb: rgb(25, 25, 25);
+    --theme-foreground: rgb(46, 45, 45);
+    --theme-text-color: rgb(184, 182, 182);
+    --theme-href-color: rgb(184, 182, 182);
+    --theme-href-hover: rgb(223, 212, 212);
+    --theme-primary: rgb(155, 54, 54);
+    --theme-secondary: rgb(184, 62, 62);
+}
+
+* {
+    font-family: "News Cycle", monospace, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0px;
+}
+
+html, body {
+    background: var(--theme-background);
+    color: var(--theme-text-color);
+}
+
+a {
+    color: var(--theme-href-color);
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
+    color: var(--theme-href-hover);
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 80%;
+}
+
+/**
+ Header
+ **/
+.title {
+    background: var(--theme-primary);
+    padding: 4rem 0px 5rem 0px;
+}
+
+/**
+ Page
+ **/
+.breadcrumb {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: content-box;
+    overflow: auto;
+    align-items: center;
+    height: 55px;
+    padding: 0 20px;
+    margin-top: -25px;
+    font-size: 12px;
+    user-select: none;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    background: var(--theme-breadcrumb);
+}
+
+.content {
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    box-sizing: content-box;
+    padding: 20px;
+    background: var(--theme-foreground);
+}
+
+/**
+ Actions
+ **/
+.content > .actions {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+
+.content > .actions > .buttons {
+    display: flex;
+    gap: 1em;
+}
+
+.content > .actions > .buttons a {
+    user-select: none;
+    vertical-align: middle;
+    padding: 7px;
+    background: var(--theme-primary);
+    color: var(--theme-text-color);
+}
+
+.content > .actions > .buttons a:hover {
+    background: var(--theme-secondary);
+}
+
+.content > .actions .filters .filters-wrap {
+    display: grid;
+    grid-template-columns: 8rem 8rem 8rem;
+}
+
+.content > .actions .filters .filters-wrap .filter-checkbox span {
+    padding: 0px 0px 0px 5px;
+}
+
+.content > .actions .filters .filters-wrap input[type="checkbox"]:hover {
+    cursor: pointer;
+}
+
+.content > .actions .filters .filters-wrap input[type="checkbox"]:before {
+    position: relative;
+    display: block;
+    width: 15px;
+    height: 15px;
+    content: "";
+    background: var(--theme-primary);
+}
+
+.content > .actions .filters .filters-wrap input[type="checkbox"]:hover:before {
+    background: var(--theme-secondary);
+}
+  
+.content > .actions .filters .filters-wrap input[type="checkbox"]:after {
+    position: relative;
+    display: block;
+    left: -2.5px;
+    top: -17px;
+    width: 20px;
+    height: 20px;
+    content: "";
+}
+
+.content > .actions .filters .filters-wrap input[type="checkbox"]:checked:after {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAJlJREFUOE/t080NQEAQhuFXcUrgqhQqIXGkAS1oQwsakElMQuzu7OLGJk6bPL752YyXT/ayxw8mdbQB5Duduz0UqAYqoD+Kd0DFxCmB8QkYxAT2JRyAFpgOfzcxHyhYAaxADsx786VnzjJjSlZ0Abp9ACYWKlnuFNUAlwG4lsyasqJRmJVQA0g/T6sRWn8rYdLTiU2YhH4w4Qb0rRkV9Si8RwAAAABJRU5ErkJggg==');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content > .actions .search {
+    margin-bottom: .5em;
+}
+
+.content > .actions .search>.search {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    background: var(--theme-primary);
+    color: var(--theme-text-color);
+}
+
+.content > .actions .search>.search::placeholder {
+    color: var(--theme-text-color);
+}

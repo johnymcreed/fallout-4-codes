@@ -31,25 +31,28 @@ function startTime() {
  * Gives the entire list of codes with the names to them
  */
 function app() {
-    // All codes
-    $(".button-list a:nth-child(1)").on("click", function () {
-        $(".button-list a:nth-child(1)").addClass("active");
-        $(".button-list a:nth-child(2)").removeClass("active")
-        $(".button-list a:nth-child(3)").removeClass("active")
+    $.getJSON('./app.json', function(json) {
+        let result = [];
+        $('.filters-wrap input[type="checkbox"]').on("click", function () {    
+            var dlc = $("#filter__dlc").is(":checked")
+            var ammo = $("#filter__ammo").is(":checked")
+            var material = $("#filter__material").is(":checked")
+            var armor = $("#filter__armor").is(":checked")
+            var cloth = $("#filter__clothing").is(":checked")
+            var weapon = $("#filter__weapon").is(":checked")
+            var mod = $("#filter__mod").is(":checked")
+            var bobble = $("#filter__bobble").is(":checked")
+            var food = $("#filter__consumable").is(":checked")
+            var notes_holos = $("#filter__note_holo").is(":checked")
+            var key = $("#filter__key").is(":checked")
+            var misc = $("#filter__misc").is(":checked")
+            var junk = $("#filter__junk").is(":checked")
 
-        $("#change").html(`
-            <input class="search" id="search" type="text" placeholder="Search for an item and code that you need" autocapitalize="off" autocomplete="off">
-            <table id="list">
-                <tr class="head">
-                    <th>Item</th>
-                    <th>Code</th>
-                </tr>
-            </table>    
-        `)
-        
-        $.getJSON('./json/all.json', function(json) {
-            $.each(json, function(key, value) {
-                $("#list").append(`
+            //result = result.concat()
+
+            $("#list-response").html("")
+            $.each(result, function(key, value) {
+                $("#list-response").append(`
                     <tr>
                         <td>
                             ${value.name}
@@ -61,139 +64,26 @@ function app() {
                 `)
             })
         })
-
-        $("#search").on("keyup", function () {
-            let search = $("#search").val().replace(/ /g, '').toLowerCase()
-            $.each($("#list tr:not(tr:nth-child(1))"), function () {
-                let result = $(this)
-                                .first() // get first collection
-                                .text() // transmit as text
-                                .trim() // trim \n
-                                .replace(/ /g, '') // remove \n or spaces
-                                .split(" ")[0] // split to be readable
-                                .toLowerCase() // so its readable at lowercase ONLY
-        
-                if (!result.includes(search)) { // KEYWORD DID NOT MATCH
-                    $(this).hide()
-                } else { // KEYWORD DID MATCH
-                    $(this).show()
-                }
-            })
-        })
     })
 
-    // Resource codes
-    $(".button-list a:nth-child(2)").on("click", function () {
-        $(".button-list a:nth-child(1)").removeClass("active");
-        $(".button-list a:nth-child(2)").addClass("active")
-        $(".button-list a:nth-child(3)").removeClass("active")
-        
-        $("#change").html(`
-            <input class="search" id="search" type="text" placeholder="Search for an item and code that you need" autocapitalize="off" autocomplete="off">
-            <table id="list">
-                <tr class="head">
-                    <th>Item</th>
-                    <th>Code</th>
-                </tr>
-            </table>    
-        `)
-        
-        $.getJSON('./json/all.json', function(json) {
-            json.length = 31; // yea :(
-            $.each(json, function(key, value) {
-                $("#list").append(`
-                    <tr>
-                        <td>
-                            ${value.name}
-                        </td>
-                        <td>
-                            ${value.code}
-                        </td>
-                    </tr>
-                `)
-            })
-        })
-
-        $("#search").on("keyup", function () {
-            let search = $("#search").val().replace(/ /g, '').toLowerCase()
-            $.each($("#list tr:not(tr:nth-child(1))"), function () {
-                let result = $(this)
-                                .first() // get first collection
-                                .text() // transmit as text
-                                .trim() // trim \n
-                                .replace(/ /g, '') // remove \n or spaces
-                                .split(" ")[0] // split to be readable
-                                .toLowerCase() // so its readable at lowercase ONLY
-        
-                if (!result.includes(search)) { // KEYWORD DID NOT MATCH
-                    $(this).hide()
-                } else { // KEYWORD DID MATCH
-                    $(this).show()
-                }
-            })
+    $("#search").on("keyup", function () {
+        let search = $("#search").val().replace(/ /g, '').toLowerCase()
+        $.each($("#list-response tr:not(tr:nth-child(1))"), function () {
+            let result = $(this)
+                            .first() // get first collection
+                            .text() // transmit as text
+                            .trim() // trim \n
+                            .replace(/ /g, '') // remove \n or spaces
+                            .split(" ")[0] // split to be readable
+                            .toLowerCase() // so its readable at lowercase ONLY
+    
+            if (!result.includes(search)) { // KEYWORD DID NOT MATCH
+                $(this).hide()
+            } else { // KEYWORD DID MATCH
+                $(this).show()
+            }
         })
     })
-
-    // Command generator
-    $(".button-list a:nth-child(3)").on("click", function () {
-        $(".button-list a:nth-child(1)").removeClass("active");
-        $(".button-list a:nth-child(2)").removeClass("active")
-        $(".button-list a:nth-child(3)").addClass("active")
-
-        $("#change").html(`
-            <div>
-                use 
-                <input type="text" id="cmd" placeholder="Command" list="commands"> then
-                <input type="text" id="amt" placeholder="Amount"> &ensp;
-                <a class="btn" id="submit">Apply</a>
-                <!---->
-                <datalist id="commands">
-                    <option value="player.additem">
-                    <option value="player.placeatme">
-                </datalist>
-            </div>
-        `)
-
-        $("#submit").on("click", function () {
-            var cmd = $("#cmd")
-            var amt = $("#amt")
-
-            if (cmd.val() == "")
-                return;
-
-            if (isNaN(amt.val()))
-                return;
-
-            $("#change").append(`
-                <div style="padding-top: 20px;">
-                    <table id="list">
-                        <tr class="head">
-                            <th>Command</th>
-                            <th>item</th>
-                        </tr>
-                    </table>
-                </div>
-            `)
-
-            $.getJSON('./json/all.json', function(json) {
-                $.each(json, function(key, value) {
-                    $("#list").append(`
-                        <tr>
-                            <td>
-                                ${cmd.val()} ${value.code} ${amt.val()}
-                            </td>
-                            <td style="user-select: none;">
-                                ${value.name.replace(" ", "_")}
-                            </td>
-                        </tr>
-                    `)
-                })
-            })
-        })
-    })
-
-    // default
-    $(".button-list a:nth-child(1)").trigger("click");
 }
 
 app();
