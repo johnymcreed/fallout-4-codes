@@ -1,59 +1,194 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title> Fallout 4 Codes </title>
+        <title>Fallout 4 Codes</title>
+        <link rel="icon" href="./logo.png">
         <link rel="stylesheet" href="style.css">
+        <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta content="utf-8" http-equiv="encoding">
+        <meta property="og:title" content="Fallout 4 Codes (F4C)">
+        <meta property="og:url" content="https://johnymcreed.github.io/fallout-4-codes/">
+        <meta property="og:description" content="A simple website that contains every fallout 4 code/id that the game has to offer so you don't have to look everywhere for the codes and get lost because you are on some stack overflow page with someone asking you to debug the games inner code to find them.">
+        <meta property="og:image" content="./logo.png">
     </head>
     <body class="dark">
         <div class="title">
             <div class="wrapper">
                 <h1>Fallout 4 Codes</h1>
                 <p>
-                    A simple github website with every code that can be used in fallout 4 with simple javascript functions that let you
-                    generate a long list of commands and other things to get what you want out of the codes.
+                    A simple website that contains every fallout 4 code/id that the game has to offer so you don't have to look everywhere for the codes and get lost because you are on some stack overflow page with someone asking you to debug the games inner code to find them.
                 </p>
             </div>
         </div>
-        <!---->
-        <!---->
-        <div class="wrapper top-rounded">
-            <div class="breadcrumb">
-                Fallout 4 / Codes
-            </div>
-            <div class="time" id="clock"></div>
+        <div class="wrapper breadcrumb">
+            <div id="date"></div>
+            <div id="clock"></div>
         </div>
-        <div class="wrapper bottom-rounded">
-            <div class="button-list">
-                <a class="btn btn-active">All codes</a>
-                <a class="btn">Resources Only</a>
-                <a class="btn">Command generator</a>
+        <div class="wrapper content">
+            <div class="actions">
+                <div class="buttons" id="actions_buttons">
+                    <a id="gen">Command Generator</a>
+                    <a href="./app.json">Json file</a>
+                    <a id="creds">Credits</a>
+                </div>
+                <div class="filters" id="actions_filters">
+                    <h1>Filters</h1>
+                    <div class="filters-wrap">
+                        <div class="filter-checkbox">
+                            <input id="filter__dlc" type="checkbox" checked>
+                            <span>DLC</span>
+                        </div>
+                        <div class="filter-checkbox">
+                            <input id="filter__ammo" type="checkbox" checked>
+                            <span>Ammunition</span>
+                        </div>
+                        <div class="filter-checkbox">
+                            <input id="filter__material" type="checkbox" checked>
+                            <span>Material</span>
+                        </div>
+                        <div class="filter-checkbox">
+                            <input id="filter__armor" type="checkbox" checked>
+                            <span>Armor</span>
+                        </div>
+                        <div class="filter-checkbox">
+                            <input id="filter__clothing" type="checkbox" checked>
+                            <span>Clothing</span>
+                        </div>
+                        <div class="filter-checkbox">
+                            <input id="filter__weapon" type="checkbox" checked>
+                            <span>Weapon</span>
+                        </div>
+                        <div class="filter-checkbox">
+                            <input id="filter__mod" type="checkbox" checked>
+                            <span>Modification</span>
+                        </div>
+                        <div class="filter-checkbox">
+                            <input id="filter__bobble" type="checkbox" checked>
+                            <span>Bobblehead</span>
+                        </div>
+                        <div class="filter-checkbox">
+                            <input id="filter__consumable" type="checkbox" checked>
+                            <span>Consumable</span>
+                        </div>
+                        <div class="filter-checkbox">
+                            <input id="filter__note_holo" type="checkbox" checked>
+                            <span>Note and Holo</span>
+                        </div>
+                        <div class="filter-checkbox">
+                            <input id="filter__key" type="checkbox" checked>
+                            <span>Key</span>
+                        </div>
+                        <div class="filter-checkbox">
+                            <input id="filter__misc" type="checkbox" checked>
+                            <span>Miscellaneous</span>
+                        </div>
+                        <div class="filter-checkbox">
+                            <input id="filter__junk" type="checkbox" checked>
+                            <span>Junk</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="search" id="actions_search">
+                    <input type="text" class="search" placeholder="Search for a specific item within this list." autocapitalize="off" autocomplete="off">
+                </div>
             </div>
-            <input class="search" id="search" type="text" placeholder="Search for an item and code that you need" autocapitalize="off" autocomplete="off">
-            <table id="list">
-                <tr class="head">
-                    <th>Item</th>
-                    <th>Code</th>
-                </tr>
-            </table>   
+            <div class="response">
+                <table class="fallout-4-table" id="list-response">
+                </table>
+            </div>
         </div>
         <div class="footer">
-            <div class="upper">
-                <div class="wrapper links">
-                    <a href="https://github.com/johnymcreed">Github</a>
-                    <a href="https://github.com/johnymcreed/Themius">Themius</a>
-                    <a href="https://github.com/johnymcreed/Ck">Ck</a>
-                    <a href="https://github.com/johnymcreed/Pixlr-Limit-Bypass">Pixlr Bypass</a>
-                    <a href="https://github.com/johnymcreed/Chatbot">Chatbot</a>
-                </div>
+            <div class="wrapper">
+                <a href="https://github.com/johnymcreed">Github</a>
+                <a href="https://github.com/johnymcreed/Themius">Themius</a>
+                <a href="https://github.com/johnymcreed/Ck">Ck</a>
+                <a href="https://github.com/johnymcreed/Pixlr-Limit-Bypass">Pixlr Bypass</a>
+                <a href="https://github.com/johnymcreed/Chatbot">Chatbot</a>
             </div>
-            <div class="lower">
-                <div class="wrapper copyright">
-                    This website is not affiliated with the fallout franchise (Bethesda Softworks) 
+            <div class="wrapper">
+                This website is not affiliated with the fallout franchise (Bethesda Softworks) or any of there games.
+            </div>
+        </div>
+        <div class="overlay" id="overlays">
+            <div class="model" id="dlc-info">
+                <h1>DLC Information</h1>
+                <p>
+                    Each DLC uses a 2 didget number infront of the ID which represents the item in hand, so we created this to easily figure out your DLC code based on which DLCs you have installed.
+                </p>
+                <div style="display: flex; margin-top: 1em;">
+                    <table style="width: 30%;">
+                        <tr>
+                            <th style="text-align: left;">DLC Name Order</th>
+                        </tr>
+                        <tr>
+                            <td>Automatron</td>
+                        </tr>
+                        <tr>
+                            <td>Wasteland Workshop</td>
+                        </tr>
+                        <tr>
+                            <td>Far Harbor</td>
+                        </tr>
+                        <tr>
+                            <td>Contraptions Workshop</td>
+                        </tr>
+                        <tr>
+                            <td>Vault-Tec Workshop</td>
+                        </tr>
+                        <tr>
+                            <td>Nuka-World</td>
+                        </tr>
+                    </table>
+                </div>
+                <p style="margin-top: 1em;">
+                    This is based off the amount of DLCs you have installed so for example if you had Wasteland Workshop and Vault-Tec Workshop installed it would be 01 and 02 and so forth. If you still don't understand go <a href="https://falloutcheats.com/dlc-code">Here</a> for more help.
+                </p>
+            </div>
+            <div class="model" id="creds-info">
+                <h1>Credits for this website</h1>
+                <p style="display: flex; flex-direction: column;">
+                    <span>Johnymcreed - Creator of the website</span>
+                    <span><a href="https://falloutcheats.com">Falloutcheats.com</a> - Part of the huge list of ids</span>
+                    <span><a href="https://www.ign.com">Ign.com</a> - Most commands for command generator</span>
+                    <span style="margin-top: 1em;">
+                        Thanks for using this website although I do not gain anything I appreciate that someone knows of my work.
+                    </span>
+                </p>
+            </div>
+            <div class="model" id="command-gen">
+                <h1>Command generator</h1>
+                <p>
+                    This generator allows you to generate a custom string for each ID which allows you to not have to constantly type out commands and then copy the code within fallout 4s console.
+                </p>
+                <div style="margin-top: 1em;">
+                    <table style="width: 70%;">
+                        <tr>
+                            <th style="text-align: left;">Commands</th>
+                            <th style="text-align: left;">Usage</th>
+                        </tr>
+                        <tr>
+                            <td>%item_id</td>
+                            <td>Will be replaced with an items ID for each one.</td>
+                        </tr>
+                        <tr>
+                            <td>%item_name</td>
+                            <td>Will be replaced with an items NAME for each one.</td>
+                        </tr>
+                        <tr>
+                            <td>HTML support</td>
+                            <td>You can write html tags for better apperance to you.</td>
+                        </tr>
+                    </table>
+                    <textarea id="gen-write" style="margin-top: 1em; outline: none; border: none; background: var(--theme-primary); resize: none; width: 100%; padding: 10px; color: var(--theme-text-color);"></textarea>
+                    <div style="display: flex; justify-content: end;">
+                        <a id="gen-submit">Submit</a>
+                    </div>
                 </div>
             </div>
         </div>
+        <div class="back-to-top" id="to-top" style="transform: rotate(-90deg);"><span>&#10132;</span></div>
     </body>
-
-    <script src="jquery.js"></script>
-    <script src="app.js"></script>
+    <script src="./jquery.js"></script>
+    <script src="./app.js"></script>
 </html>

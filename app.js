@@ -1,3 +1,5 @@
+// this is a very messy file xd; works though
+
 /**
  * Designed to show the time on the page
  */
@@ -35,7 +37,9 @@ function startTime() {
  */
 function json_list() {
     $.getJSON('./app.json', function(json) {
-        $('.filters-wrap').on("click", function () {    
+        let custom_string = "";
+        $('.filters-wrap').on("click", function () {   
+            var dlc = $("#filter__dlc").is(":checked") 
             var ammo = $("#filter__ammo").is(":checked")
             var material = $("#filter__material").is(":checked")
             var armor = $("#filter__armor").is(":checked")
@@ -65,17 +69,25 @@ function json_list() {
                 junk ? result.concat(json.junk) : undefined
             )
 
-            $("#list-response").html(`
+            custom_string == "" ? $("#list-response").html(`
                 <tr class="header">
                     <th>Name</th>
                     <th>Code/ID</th>
                 </tr>
+            `) : $("#list-response").html(`
+                <tr class="header">
+                    <th>Custom string</th>
+                </tr>
             `)
+                
             $.each(result, function(key, value) {
                 if (value == undefined)
                     return
+
+                if (!dlc && value.is_dlc)
+                    return
     
-                $("#list-response").append(`
+                custom_string == "" ? $("#list-response").append(`
                     <tr>
                         <td>
                             ${value.name}
@@ -83,11 +95,35 @@ function json_list() {
                         <td>
                             ${value.code}
                         </td>
+                        <td style="display: none; width: 0; position: absolute;">
+                            ${value.name}|${value.code}
+                        </td>
+                    </tr>
+                `) : $("#list-response").append(`
+                    <tr>
+                        <td>
+                            ${custom_string.replace("%item_name", value.name).replace("%item_id", value.code)}
+                        </td>
+                        <td style="display: none; width: 0; position: absolute;">
+                            ${value.name}|${value.code}
+                        </td>
                     </tr>
                 `)
             })
 
+            $("#list-response:not(.header)").each(function () {
+                if (this.length == 0)
+                    $(this).append("t")
+            })
+
             model(); // model support
+        })
+        
+        $("#gen-submit").on("click", function () {
+            custom_string = $("#gen-write").val()
+            $('.filters-wrap').trigger("click")
+            $(".overlay").hide()
+            $(".overlay .model").hide()
         })
 
         // show before hand
@@ -126,12 +162,45 @@ function model() {
     $(".chip").on("click", function () {
         $(".overlay").show()
         $(".overlay #dlc-info").show()
+        $(".overlay .model").animate({
+            opacity: "1"
+        }, .5)
     })
 
     $("#creds").on("click", function () {
         $(".overlay").show()
         $(".overlay #creds-info").show()
+        $(".overlay .model").animate({
+            opacity: "1"
+        }, .5)
     })
+
+    $("#gen").on("click", function () {
+        $(".overlay").show()
+        $(".overlay #command-gen").show()
+        $(".overlay .model").animate({
+            opacity: "1"
+        }, .5)
+    })
+
+    // textbox handler
+    $("#gen-write").on("keyup", function () {
+        if ($(this).val().length > 100) {
+            if ($(this).prop("scrollHeight") <= 300)
+                $(this).height($(this).prop("scrollHeight")+"px")
+        }
+        
+        if ($(this).val().length == 0)
+            $(this).height("inherit")
+    })
+    
+    // handles when you click Enter NOT Shift+Enter
+    $("#gen-write").keypress(function (e) {
+        if(e.which === 13 && !e.shiftKey) {
+            e.preventDefault();
+            $("#gen-submit").trigger("click");
+        }
+    });
 
     // close
     $(window).click(function (env) {
@@ -143,6 +212,20 @@ function model() {
 }
 
 $(document).ready(function () {
+    window.onscroll = function () {
+        if (window.scrollY > 1080) {
+            $("#to-top").css("right", "5px")
+            $("#to-top").css("opacity", "1")
+        } else {
+            $("#to-top").css("right", "-60px")
+            $("#to-top").css("opacity", "0")
+        }
+    }
+
+    $("#to-top").on("click", function () {
+        $('html, body').animate({scrollTop: '0px'}, 800);
+    })
+
     search();
     json_list();
     startTime();
