@@ -22,7 +22,7 @@
         },
         {
             "name": ".45-70",
-            "code": "DLC Code + 02c8b1",
+            "code": "<span class=\"chip\">DLC Code</span> + 02c8b1",
             "is_dlc": true
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "name": "7.62mm",
-            "code": "DLC Code + 037897",
+            "code": "<span class=\"chip\">DLC Code</span> + 037897",
             "is_dlc": true
         },
         {
@@ -127,12 +127,12 @@
         },
         {
             "name": "Harpoon",
-            "code": "DLC Code + 010b80",
+            "code": "<span class=\"chip\">DLC Code</span> + 010b80",
             "is_dlc": true
         },
         {
             "name": "Modified Bowling Ball",
-            "code": "DLC Code + 02740e",
+            "code": "<span class=\"chip\">DLC Code</span> + 02740e",
             "is_dlc": true
         }
     ],
@@ -491,312 +491,312 @@
         },
         {
             "name": "Robot Chest Piece",
-            "code": "DLC Code + 00863f",
+            "code": "<span class=\"chip\">DLC Code</span> + 00863f",
             "is_dlc": true
         },
         {
             "name": "Robot Left Arm",
-            "code": "DLC Code + 008644",
+            "code": "<span class=\"chip\">DLC Code</span> + 008644",
             "is_dlc": true
         },
         {
             "name": "Robot Right Arm",
-            "code": "DLC Code + 008642",
+            "code": "<span class=\"chip\">DLC Code</span> + 008642",
             "is_dlc": true
         },
         {
             "name": "Robot Left Leg",
-            "code": "DLC Code + 008648",
+            "code": "<span class=\"chip\">DLC Code</span> + 008648",
             "is_dlc": true
         },
         {
             "name": "Robot Right Leg",
-            "code": "DLC Code + 008646",
+            "code": "<span class=\"chip\">DLC Code</span> + 008646",
             "is_dlc": true
         },
         {
             "name": "Trapper Chest Piece",
-            "code": "DLC Code + 00ee79",
+            "code": "<span class=\"chip\">DLC Code</span> + 00ee79",
             "is_dlc": true
         },
         {
             "name": "Trapper Left Arm",
-            "code": "DLC Code + 00ee75",
+            "code": "<span class=\"chip\">DLC Code</span> + 00ee75",
             "is_dlc": true
         },
         {
             "name": "Trapper Right Arm",
-            "code": "DLC Code + 00ee76",
+            "code": "<span class=\"chip\">DLC Code</span> + 00ee76",
             "is_dlc": true
         },
         {
             "name": "Trapper Left Leg",
-            "code": "DLC Code + 00ee77",
+            "code": "<span class=\"chip\">DLC Code</span> + 00ee77",
             "is_dlc": true
         },
         {
             "name": "Trapper Right Leg",
-            "code": "DLC Code + 00ee78",
+            "code": "<span class=\"chip\">DLC Code</span> + 00ee78",
             "is_dlc": true
         },
         {
             "name": "Disciples Hood",
-            "code": "DLC Code + 03b557",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b557",
             "is_dlc": true
         },
         {
             "name": "Disciples Spiked Helmet",
-            "code": "DLC Code + 026bb6",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bb6",
             "is_dlc": true
         },
         {
             "name": "Disciples Metal Chest Piece",
-            "code": "DLC Code + 026bb8",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bb8",
             "is_dlc": true
         },
         {
             "name": "Disciples Strapped Chest Piece",
-            "code": "DLC Code + 026bab",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bab",
             "is_dlc": true
         },
         {
             "name": "Disciples Metal Left Arm",
-            "code": "DLC Code + 026bc1",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bc1",
             "is_dlc": true
         },
         {
             "name": "Disciples Metal Right Arm",
-            "code": "DLC Code + 026bbf",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bbf",
             "is_dlc": true
         },
         {
             "name": "Disciples Spiked Left Arm",
-            "code": "DLC Code + 026bc0",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bc0",
             "is_dlc": true
         },
         {
             "name": "Disciples Spiked Right Arm",
-            "code": "DLC Code + 026bbe",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bbe",
             "is_dlc": true
         },
         {
             "name": "Disciples Strapped Left Arm",
-            "code": "DLC Code + 03b559",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b559",
             "is_dlc": true
         },
         {
             "name": "Disciples Strapped Right Arm",
-            "code": "DLC Code + 03b558",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b558",
             "is_dlc": true
         },
         {
             "name": "Disciples Wrapped Left Arm",
-            "code": "DLC Code + 026bb4",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bb4",
             "is_dlc": true
         },
         {
             "name": "Disciples Wrapped Right Arm",
-            "code": "DLC Code + 026bb2",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bb2",
             "is_dlc": true
         },
         {
             "name": "Disciples Metal Left Leg",
-            "code": "DLC Code + 026bbc",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bbc",
             "is_dlc": true
         },
         {
             "name": "Disciples Metal Right Leg",
-            "code": "DLC Code + 026bba",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bba",
             "is_dlc": true
         },
         {
             "name": "Disciples Spiked Left Leg",
-            "code": "DLC Code + 026bbb",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bbb",
             "is_dlc": true
         },
         {
             "name": "Disciples Spiked Right Leg",
-            "code": "DLC Code + 026bb9",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bb9",
             "is_dlc": true
         },
         {
             "name": "Disciples Strapped Left Leg",
-            "code": "DLC Code + 03b556",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b556",
             "is_dlc": true
         },
         {
             "name": "Disciples Strapped Right Leg",
-            "code": "DLC Code + 03b555",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b555",
             "is_dlc": true
         },
         {
             "name": "Disciples Wrapped Left Leg",
-            "code": "DLC Code + 026baf",
+            "code": "<span class=\"chip\">DLC Code</span> + 026baf",
             "is_dlc": true
         },
         {
             "name": "Disciples Wrapped Right Leg",
-            "code": "DLC Code + 026bad",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bad",
             "is_dlc": true
         },
         {
             "name": "Operators Belted Chest Piece",
-            "code": "DLC Code + 028743",
+            "code": "<span class=\"chip\">DLC Code</span> + 028743",
             "is_dlc": true
         },
         {
             "name": "Operators Chest Piece",
-            "code": "DLC Code + 03b8ae",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b8ae",
             "is_dlc": true
         },
         {
             "name": "Operators Heavy Chest Piece",
-            "code": "DLC Code + 028738",
+            "code": "<span class=\"chip\">DLC Code</span> + 028738",
             "is_dlc": true
         },
         {
             "name": "Operators Left Arm",
-            "code": "DLC Code + 03b8aa",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b8aa",
             "is_dlc": true
         },
         {
             "name": "Operators Right Arm",
-            "code": "DLC Code + 03b8ab",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b8ab",
             "is_dlc": true
         },
         {
             "name": "Operators Left Armband",
-            "code": "DLC Code + 028739",
+            "code": "<span class=\"chip\">DLC Code</span> + 028739",
             "is_dlc": true
         },
         {
             "name": "Operators Right Armband",
-            "code": "DLC Code + 02873b",
+            "code": "<span class=\"chip\">DLC Code</span> + 02873b",
             "is_dlc": true
         },
         {
             "name": "Operators Heavy Left Arm",
-            "code": "DLC Code + 028731",
+            "code": "<span class=\"chip\">DLC Code</span> + 028731",
             "is_dlc": true
         },
         {
             "name": "Operators Heavy Right Arm",
-            "code": "DLC Code + 028733",
+            "code": "<span class=\"chip\">DLC Code</span> + 028733",
             "is_dlc": true
         },
         {
             "name": "Operators Heavy Left Bracer",
-            "code": "DLC Code + 028730",
+            "code": "<span class=\"chip\">DLC Code</span> + 028730",
             "is_dlc": true
         },
         {
             "name": "Operators Heavy Right Bracer",
-            "code": "DLC Code + 028732",
+            "code": "<span class=\"chip\">DLC Code</span> + 028732",
             "is_dlc": true
         },
         {
             "name": "Operators Left Leg",
-            "code": "DLC Code + 02873f",
+            "code": "<span class=\"chip\">DLC Code</span> + 02873f",
             "is_dlc": true
         },
         {
             "name": "Operators Right Leg",
-            "code": "DLC Code + 028741",
+            "code": "<span class=\"chip\">DLC Code</span> + 028741",
             "is_dlc": true
         },
         {
             "name": "Operators Heavy Left Leg",
-            "code": "DLC Code + 028735",
+            "code": "<span class=\"chip\">DLC Code</span> + 028735",
             "is_dlc": true
         },
         {
             "name": "Operators Heavy Right Leg",
-            "code": "DLC Code + 028737",
+            "code": "<span class=\"chip\">DLC Code</span> + 028737",
             "is_dlc": true
         },
         {
             "name": "Operators Heavy Left Leg Guard",
-            "code": "DLC Code + 028734",
+            "code": "<span class=\"chip\">DLC Code</span> + 028734",
             "is_dlc": true
         },
         {
             "name": "Operators Heavy Right Leg Guard",
-            "code": "DLC Code + 028736",
+            "code": "<span class=\"chip\">DLC Code</span> + 028736",
             "is_dlc": true
         },
         {
             "name": "Pack Moose Helmet",
-            "code": "DLC Code + 02740f",
+            "code": "<span class=\"chip\">DLC Code</span> + 02740f",
             "is_dlc": true
         },
         {
             "name": "Pack Feather Necklace",
-            "code": "DLC Code + 03b8a9",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b8a9",
             "is_dlc": true
         },
         {
             "name": "Pack Necklace",
-            "code": "DLC Code + 02741f",
+            "code": "<span class=\"chip\">DLC Code</span> + 02741f",
             "is_dlc": true
         },
         {
             "name": "Pack Shawl",
-            "code": "DLC Code + 027421",
+            "code": "<span class=\"chip\">DLC Code</span> + 027421",
             "is_dlc": true
         },
         {
             "name": "Yao-guai Finger Necklace",
-            "code": "DLC Code + 04e26f",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e26f",
             "is_dlc": true
         },
         {
             "name": "Pack Stuffed Chest Piece",
-            "code": "DLC Code + 02741e",
+            "code": "<span class=\"chip\">DLC Code</span> + 02741e",
             "is_dlc": true
         },
         {
             "name": "Pack Chest Armor",
-            "code": "DLC Code + 027414",
+            "code": "<span class=\"chip\">DLC Code</span> + 027414",
             "is_dlc": true
         },
         {
             "name": "Pack Left Bracer",
-            "code": "DLC Code + 027415",
+            "code": "<span class=\"chip\">DLC Code</span> + 027415",
             "is_dlc": true
         },
         {
             "name": "Pack Right Bracer",
-            "code": "DLC Code + 027417",
+            "code": "<span class=\"chip\">DLC Code</span> + 027417",
             "is_dlc": true
         },
         {
             "name": "Pack Left Arm",
-            "code": "DLC Code + 02740b",
+            "code": "<span class=\"chip\">DLC Code</span> + 02740b",
             "is_dlc": true
         },
         {
             "name": "Pack Right Arm",
-            "code": "DLC Code + 02740d",
+            "code": "<span class=\"chip\">DLC Code</span> + 02740d",
             "is_dlc": true
         },
         {
             "name": "Pack Stuffed Left Leg",
-            "code": "DLC Code + 02741a",
+            "code": "<span class=\"chip\">DLC Code</span> + 02741a",
             "is_dlc": true
         },
         {
             "name": "Pack Stuffed Right Leg",
-            "code": "DLC Code + 02741c",
+            "code": "<span class=\"chip\">DLC Code</span> + 02741c",
             "is_dlc": true
         },
         {
             "name": "Pack Bone Left Leg",
-            "code": "DLC Code + 027410",
+            "code": "<span class=\"chip\">DLC Code</span> + 027410",
             "is_dlc": true
         },
         {
             "name": "Pack Right Bone Leg",
-            "code": "DLC Code + 027412",
+            "code": "<span class=\"chip\">DLC Code</span> + 027412",
             "is_dlc": true
         },
         {
@@ -806,12 +806,12 @@
         },
         {
             "name": "Assault Marine Armor Helmet",
-            "code": "DLC Code + 009e58",
+            "code": "<span class=\"chip\">DLC Code</span> + 009e58",
             "is_dlc": true
         },
         {
             "name": "Assaultron Helmet",
-            "code": "DLC Code + 00864a",
+            "code": "<span class=\"chip\">DLC Code</span> + 00864a",
             "is_dlc": true
         },
         {
@@ -826,22 +826,22 @@
         },
         {
             "name": "Disciples Banded Helmet",
-            "code": "DLC Code + 026bb7",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bb7",
             "is_dlc": true
         },
         {
             "name": "Disciples Bladed Helmet",
-            "code": "DLC Code + 026bb5",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bb5",
             "is_dlc": true
         },
         {
             "name": "Disciples Cowl",
-            "code": "DLC Code + 026bb0",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bb0",
             "is_dlc": true
         },
         {
             "name": "Disciples Head Covering",
-            "code": "DLC Code + 026bbd",
+            "code": "<span class=\"chip\">DLC Code</span> + 026bbd",
             "is_dlc": true
         },
         {
@@ -851,7 +851,7 @@
         },
         {
             "name": "Eyebot Helmet",
-            "code": "DLC Code + 00864c",
+            "code": "<span class=\"chip\">DLC Code</span> + 00864c",
             "is_dlc": true
         },
         {
@@ -876,77 +876,77 @@
         },
         {
             "name": "Inquisitor's Cowl",
-            "code": "DLC Code + 0247c5",
+            "code": "<span class=\"chip\">DLC Code</span> + 0247c5",
             "is_dlc": true
         },
         {
             "name": "Lobster Trap Helmet",
-            "code": "DLC Code + 04fa89",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fa89",
             "is_dlc": true
         },
         {
             "name": "Marine Tactical Helmet",
-            "code": "DLC Code + 03a557",
+            "code": "<span class=\"chip\">DLC Code</span> + 03a557",
             "is_dlc": true
         },
         {
             "name": "Mechanist's Helmet",
-            "code": "DLC Code + 008bc3",
+            "code": "<span class=\"chip\">DLC Code</span> + 008bc3",
             "is_dlc": true
         },
         {
             "name": "Pack Beanie And Crow Mask",
-            "code": "DLC Code + 02770b",
+            "code": "<span class=\"chip\">DLC Code</span> + 02770b",
             "is_dlc": true
         },
         {
             "name": "Pack Buffalo Helmet",
-            "code": "DLC Code + 027707",
+            "code": "<span class=\"chip\">DLC Code</span> + 027707",
             "is_dlc": true
         },
         {
             "name": "Pack Carnival Mask",
-            "code": "DLC Code + 027709",
+            "code": "<span class=\"chip\">DLC Code</span> + 027709",
             "is_dlc": true
         },
         {
             "name": "Pack Crow Mask",
-            "code": "DLC Code + 02770a",
+            "code": "<span class=\"chip\">DLC Code</span> + 02770a",
             "is_dlc": true
         },
         {
             "name": "Pack Deer Mask",
-            "code": "DLC Code + 027708",
+            "code": "<span class=\"chip\">DLC Code</span> + 027708",
             "is_dlc": true
         },
         {
             "name": "Pack Elephant Helmet",
-            "code": "DLC Code + 027705",
+            "code": "<span class=\"chip\">DLC Code</span> + 027705",
             "is_dlc": true
         },
         {
             "name": "Pack Helmet",
-            "code": "DLC Code + 027419",
+            "code": "<span class=\"chip\">DLC Code</span> + 027419",
             "is_dlc": true
         },
         {
             "name": "Pack Horned Helm",
-            "code": "DLC Code + 02770e",
+            "code": "<span class=\"chip\">DLC Code</span> + 02770e",
             "is_dlc": true
         },
         {
             "name": "Pack Jaguar Helmet",
-            "code": "DLC Code + 027706",
+            "code": "<span class=\"chip\">DLC Code</span> + 027706",
             "is_dlc": true
         },
         {
             "name": "Pack Masked Helm",
-            "code": "DLC Code + 02770c",
+            "code": "<span class=\"chip\">DLC Code</span> + 02770c",
             "is_dlc": true
         },
         {
             "name": "Pack Moose Helmet",
-            "code": "DLC Code + 02770f",
+            "code": "<span class=\"chip\">DLC Code</span> + 02770f",
             "is_dlc": true
         },
         {
@@ -976,12 +976,12 @@
         },
         {
             "name": "Sentry Bot Helmet",
-            "code": "DLC Code + 00864e",
+            "code": "<span class=\"chip\">DLC Code</span> + 00864e",
             "is_dlc": true
         },
         {
             "name": "Spacesuit Costume Helmet",
-            "code": "DLC Code + 0296b8",
+            "code": "<span class=\"chip\">DLC Code</span> + 0296b8",
             "is_dlc": true
         },
         {
@@ -1146,17 +1146,17 @@
         },
         {
             "name": "Tesla T-60 Torso",
-            "code": "DLC Code + 00c57b",
+            "code": "<span class=\"chip\">DLC Code</span> + 00c57b",
             "is_dlc": true
         },
         {
             "name": "Tesla T-60 Left Arm",
-            "code": "DLC Code + 00c576",
+            "code": "<span class=\"chip\">DLC Code</span> + 00c576",
             "is_dlc": true
         },
         {
             "name": "Tesla T-60 Right Arm",
-            "code": "DLC Code + 00c57a",
+            "code": "<span class=\"chip\">DLC Code</span> + 00c57a",
             "is_dlc": true
         },
         {
@@ -1186,7 +1186,7 @@
         },
         {
             "name": "Shock Collar",
-            "code": "DLC Code + 029afa",
+            "code": "<span class=\"chip\">DLC Code</span> + 029afa",
             "is_dlc": true
         },
         {
@@ -1331,7 +1331,7 @@
         },
         {
             "name": "Super Mutant Bearskin Outfit",
-            "code": "DLC Code + 02e026",
+            "code": "<span class=\"chip\">DLC Code</span> + 02e026",
             "is_dlc": true
         },
         {
@@ -1408,57 +1408,57 @@
         },
         {
             "name": "Bottle And Cappy Shirt & Jeans",
-            "code": "DLC Code + 029c0f",
+            "code": "<span class=\"chip\">DLC Code</span> + 029c0f",
             "is_dlc": true
         },
         {
             "name": "Bottle Shirt & Jeans",
-            "code": "DLC Code + 029c10",
+            "code": "<span class=\"chip\">DLC Code</span> + 029c10",
             "is_dlc": true
         },
         {
             "name": "Cappy Shirt & Jeans",
-            "code": "DLC Code + 029c12",
+            "code": "<span class=\"chip\">DLC Code</span> + 029c12",
             "is_dlc": true
         },
         {
             "name": "Colorful Brown Undergarments",
-            "code": "DLC Code + 04e283",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e283",
             "is_dlc": true
         },
         {
             "name": "Colorful Dark Blue Undergarments",
-            "code": "DLC Code + 04e284",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e284",
             "is_dlc": true
         },
         {
             "name": "Colorful Dark Green Undergarments",
-            "code": "DLC Code + 04e285",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e285",
             "is_dlc": true
         },
         {
             "name": "Colorful Green Undergarments",
-            "code": "DLC Code + 04e282",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e282",
             "is_dlc": true
         },
         {
             "name": "Colorful Light Blue Undergarments",
-            "code": "DLC Code + 04e281",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e281",
             "is_dlc": true
         },
         {
             "name": "Colorful Light Green Undergarments",
-            "code": "DLC Code + 04e27f",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e27f",
             "is_dlc": true
         },
         {
             "name": "Colorful Pink Undergarments",
-            "code": "DLC Code + 027422",
+            "code": "<span class=\"chip\">DLC Code</span> + 027422",
             "is_dlc": true
         },
         {
             "name": "Colorful Yellow Undergarments",
-            "code": "DLC Code + 04e280",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e280",
             "is_dlc": true
         },
         {
@@ -1473,22 +1473,22 @@
         },
         {
             "name": "Fancy Plaid Suit & String Tie",
-            "code": "DLC Code + 028745",
+            "code": "<span class=\"chip\">DLC Code</span> + 028745",
             "is_dlc": true
         },
         {
             "name": "Fancy Plaid Suit & Tie",
-            "code": "DLC Code + 028747",
+            "code": "<span class=\"chip\">DLC Code</span> + 028747",
             "is_dlc": true
         },
         {
             "name": "Fancy Suit",
-            "code": "DLC Code + 028746",
+            "code": "<span class=\"chip\">DLC Code</span> + 028746",
             "is_dlc": true
         },
         {
             "name": "Fancy Suit & Tie",
-            "code": "DLC Code + 028744",
+            "code": "<span class=\"chip\">DLC Code</span> + 028744",
             "is_dlc": true
         },
         {
@@ -1498,7 +1498,7 @@
         },
         {
             "name": "Furry Undergarments",
-            "code": "DLC Code + 027423",
+            "code": "<span class=\"chip\">DLC Code</span> + 027423",
             "is_dlc": true
         },
         {
@@ -1528,7 +1528,7 @@
         },
         {
             "name": "Legend Of Vault 88",
-            "code": "DLC Code + 001afd",
+            "code": "<span class=\"chip\">DLC Code</span> + 001afd",
             "is_dlc": true
         },
         {
@@ -1538,7 +1538,7 @@
         },
         {
             "name": "Marine Wetsuit",
-            "code": "DLC Code + 03a556",
+            "code": "<span class=\"chip\">DLC Code</span> + 03a556",
             "is_dlc": true
         },
         {
@@ -1553,22 +1553,22 @@
         },
         {
             "name": "Nuka-world Geyser Shirt & Jeans",
-            "code": "DLC Code + 044da3",
+            "code": "<span class=\"chip\">DLC Code</span> + 044da3",
             "is_dlc": true
         },
         {
             "name": "Nuka-world Shirt & Jeans",
-            "code": "DLC Code + 029c11",
+            "code": "<span class=\"chip\">DLC Code</span> + 029c11",
             "is_dlc": true
         },
         {
             "name": "Patchwork Sweater & Furry Pants",
-            "code": "DLC Code + 027425",
+            "code": "<span class=\"chip\">DLC Code</span> + 027425",
             "is_dlc": true
         },
         {
             "name": "Patchwork Sweater & Shorts",
-            "code": "DLC Code + 027426",
+            "code": "<span class=\"chip\">DLC Code</span> + 027426",
             "is_dlc": true
         },
         {
@@ -1578,7 +1578,7 @@
         },
         {
             "name": "Ripped Shirt & Socks",
-            "code": "DLC Code + 027424",
+            "code": "<span class=\"chip\">DLC Code</span> + 027424",
             "is_dlc": true
         },
         {
@@ -1598,17 +1598,17 @@
         },
         {
             "name": "Torn Shirt & Jeans",
-            "code": "DLC Code + 026ba9",
+            "code": "<span class=\"chip\">DLC Code</span> + 026ba9",
             "is_dlc": true
         },
         {
             "name": "Torn Shirt & Ragged Pants",
-            "code": "DLC Code + 026ba7",
+            "code": "<span class=\"chip\">DLC Code</span> + 026ba7",
             "is_dlc": true
         },
         {
             "name": "Trapper Leathers",
-            "code": "DLC Code + 00ea36",
+            "code": "<span class=\"chip\">DLC Code</span> + 00ea36",
             "is_dlc": true
         },
         {
@@ -1638,7 +1638,7 @@
         },
         {
             "name": "Vault 88 Jumpsuit",
-            "code": "DLC Code + 0042ae",
+            "code": "<span class=\"chip\">DLC Code</span> + 0042ae",
             "is_dlc": true
         },
         {
@@ -1683,17 +1683,17 @@
         },
         {
             "name": "Vault 118 Jumpsuit",
-            "code": "DLC Code + 043331",
+            "code": "<span class=\"chip\">DLC Code</span> + 043331",
             "is_dlc": true
         },
         {
             "name": "Wrap & Ragged Pants",
-            "code": "DLC Code + 026baa",
+            "code": "<span class=\"chip\">DLC Code</span> + 026baa",
             "is_dlc": true
         },
         {
             "name": "Wrap & Ripped Jeans",
-            "code": "DLC Code + 026ba8",
+            "code": "<span class=\"chip\">DLC Code</span> + 026ba8",
             "is_dlc": true
         },
         {
@@ -1723,7 +1723,7 @@
         },
         {
             "name": "Black Fisherman's Overalls",
-            "code": "DLC Code + 0570d3",
+            "code": "<span class=\"chip\">DLC Code</span> + 0570d3",
             "is_dlc": true
         },
         {
@@ -1753,12 +1753,12 @@
         },
         {
             "name": "Bottle And Cappy Orange Jacket & Jeans",
-            "code": "DLC Code + 044da5",
+            "code": "<span class=\"chip\">DLC Code</span> + 044da5",
             "is_dlc": true
         },
         {
             "name": "Bottle And Cappy Red Jacket & Jeans",
-            "code": "DLC Code + 044da6",
+            "code": "<span class=\"chip\">DLC Code</span> + 044da6",
             "is_dlc": true
         },
         {
@@ -1778,7 +1778,7 @@
         },
         {
             "name": "Brown Fisherman's Overalls",
-            "code": "DLC Code + 0570da",
+            "code": "<span class=\"chip\">DLC Code</span> + 0570da",
             "is_dlc": true
         },
         {
@@ -1793,7 +1793,7 @@
         },
         {
             "name": "Cappy Jacket & Jeans",
-            "code": "DLC Code + 044da8",
+            "code": "<span class=\"chip\">DLC Code</span> + 044da8",
             "is_dlc": true
         },
         {
@@ -1808,7 +1808,7 @@
         },
         {
             "name": "Chase's Uniform",
-            "code": "DLC Code + 048234",
+            "code": "<span class=\"chip\">DLC Code</span> + 048234",
             "is_dlc": true
         },
         {
@@ -1893,7 +1893,7 @@
         },
         {
             "name": "Coastal Armor",
-            "code": "DLC Code + 04fa88",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fa88",
             "is_dlc": true
         },
         {
@@ -1913,7 +1913,7 @@
         },
         {
             "name": "Cowhide Western Outfit",
-            "code": "DLC Code + 029c0b",
+            "code": "<span class=\"chip\">DLC Code</span> + 029c0b",
             "is_dlc": true
         },
         {
@@ -2018,7 +2018,7 @@
         },
         {
             "name": "Disciples Armored Skirt",
-            "code": "DLC Code + 03b554",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b554",
             "is_dlc": true
         },
         {
@@ -2068,22 +2068,22 @@
         },
         {
             "name": "Fisherman's Outfit",
-            "code": "DLC Code + 00914e",
+            "code": "<span class=\"chip\">DLC Code</span> + 00914e",
             "is_dlc": true
         },
         {
             "name": "Fisherman's Overalls",
-            "code": "DLC Code + 00914f",
+            "code": "<span class=\"chip\">DLC Code</span> + 00914f",
             "is_dlc": true
         },
         {
             "name": "Furry Pants & T-shirt",
-            "code": "DLC Code + 0520cf",
+            "code": "<span class=\"chip\">DLC Code</span> + 0520cf",
             "is_dlc": true
         },
         {
             "name": "Gage's Armor",
-            "code": "DLC Code + 029c06",
+            "code": "<span class=\"chip\">DLC Code</span> + 029c06",
             "is_dlc": true
         },
         {
@@ -2098,7 +2098,7 @@
         },
         {
             "name": "Green Fisherman's Overalls",
-            "code": "DLC Code + 0570d4",
+            "code": "<span class=\"chip\">DLC Code</span> + 0570d4",
             "is_dlc": true
         },
         {
@@ -2113,7 +2113,7 @@
         },
         {
             "name": "Grey Fisherman's Overalls",
-            "code": "DLC Code + 0570d9",
+            "code": "<span class=\"chip\">DLC Code</span> + 0570d9",
             "is_dlc": true
         },
         {
@@ -2143,7 +2143,7 @@
         },
         {
             "name": "High Confessor's Robes",
-            "code": "DLC Code + 0391e6",
+            "code": "<span class=\"chip\">DLC Code</span> + 0391e6",
             "is_dlc": true
         },
         {
@@ -2153,17 +2153,17 @@
         },
         {
             "name": "Hubologist Outfit",
-            "code": "DLC Code + 029c0c",
+            "code": "<span class=\"chip\">DLC Code</span> + 029c0c",
             "is_dlc": true
         },
         {
             "name": "Hunter's Long Coat",
-            "code": "DLC Code + 046027",
+            "code": "<span class=\"chip\">DLC Code</span> + 046027",
             "is_dlc": true
         },
         {
             "name": "Hunter's Pelt Outfit",
-            "code": "DLC Code + 04e698",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e698",
             "is_dlc": true
         },
         {
@@ -2238,7 +2238,7 @@
         },
         {
             "name": "Legend Of The Harbor",
-            "code": "DLC Code + 04b9b1",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b9b1",
             "is_dlc": true
         },
         {
@@ -2263,12 +2263,12 @@
         },
         {
             "name": "Magician's Tuxedo",
-            "code": "DLC Code + 03407c",
+            "code": "<span class=\"chip\">DLC Code</span> + 03407c",
             "is_dlc": true
         },
         {
             "name": "Mason's Outfit",
-            "code": "DLC Code + 04a6a1",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a6a1",
             "is_dlc": true
         },
         {
@@ -2288,7 +2288,7 @@
         },
         {
             "name": "Mechanist's Armor",
-            "code": "DLC Code + 008bc1",
+            "code": "<span class=\"chip\">DLC Code</span> + 008bc1",
             "is_dlc": true
         },
         {
@@ -2298,32 +2298,32 @@
         },
         {
             "name": "Nuka-girl Rocketsuit",
-            "code": "DLC Code + 029c0d",
+            "code": "<span class=\"chip\">DLC Code</span> + 029c0d",
             "is_dlc": true
         },
         {
             "name": "Nuka-world Geyser Jacket & Jeans",
-            "code": "DLC Code + 044da4",
+            "code": "<span class=\"chip\">DLC Code</span> + 044da4",
             "is_dlc": true
         },
         {
             "name": "Nuka-world Jacket & Jeans",
-            "code": "DLC Code + 044da7",
+            "code": "<span class=\"chip\">DLC Code</span> + 044da7",
             "is_dlc": true
         },
         {
             "name": "Nuka-world Jumpsuit",
-            "code": "DLC Code + 03578e",
+            "code": "<span class=\"chip\">DLC Code</span> + 03578e",
             "is_dlc": true
         },
         {
             "name": "Operators Armored Dress",
-            "code": "DLC Code + 039568",
+            "code": "<span class=\"chip\">DLC Code</span> + 039568",
             "is_dlc": true
         },
         {
             "name": "Operators Armored Skirt",
-            "code": "DLC Code + 039562",
+            "code": "<span class=\"chip\">DLC Code</span> + 039562",
             "is_dlc": true
         },
         {
@@ -2333,7 +2333,7 @@
         },
         {
             "name": "Orange Shirt Western Outfit",
-            "code": "DLC Code + 029c0a",
+            "code": "<span class=\"chip\">DLC Code</span> + 029c0a",
             "is_dlc": true
         },
         {
@@ -2428,12 +2428,12 @@
         },
         {
             "name": "Rescue Diver Suit",
-            "code": "DLC Code + 04885a",
+            "code": "<span class=\"chip\">DLC Code</span> + 04885a",
             "is_dlc": true
         },
         {
             "name": "Robes Of Atom's Devoted",
-            "code": "DLC Code + 0247c8",
+            "code": "<span class=\"chip\">DLC Code</span> + 0247c8",
             "is_dlc": true
         },
         {
@@ -2458,7 +2458,7 @@
         },
         {
             "name": "Spacesuit Costume",
-            "code": "DLC Code + 00d2ae",
+            "code": "<span class=\"chip\">DLC Code</span> + 00d2ae",
             "is_dlc": true
         },
         {
@@ -2528,22 +2528,22 @@
         },
         {
             "name": "Western Duster",
-            "code": "DLC Code + 042325",
+            "code": "<span class=\"chip\">DLC Code</span> + 042325",
             "is_dlc": true
         },
         {
             "name": "Western Outfit",
-            "code": "DLC Code + 029c08",
+            "code": "<span class=\"chip\">DLC Code</span> + 029c08",
             "is_dlc": true
         },
         {
             "name": "Western Outfit & Chaps",
-            "code": "DLC Code + 029c09",
+            "code": "<span class=\"chip\">DLC Code</span> + 029c09",
             "is_dlc": true
         },
         {
             "name": "Wildman Rags",
-            "code": "DLC Code + 0392ae",
+            "code": "<span class=\"chip\">DLC Code</span> + 0392ae",
             "is_dlc": true
         },
         {
@@ -2593,7 +2593,7 @@
         },
         {
             "name": "Black Cowboy Hat",
-            "code": "DLC Code + 042323",
+            "code": "<span class=\"chip\">DLC Code</span> + 042323",
             "is_dlc": true
         },
         {
@@ -2628,7 +2628,7 @@
         },
         {
             "name": "Cowboy Hat",
-            "code": "DLC Code + 042322",
+            "code": "<span class=\"chip\">DLC Code</span> + 042322",
             "is_dlc": true
         },
         {
@@ -2663,7 +2663,7 @@
         },
         {
             "name": "Fisherman's Hat",
-            "code": "DLC Code + 00914b",
+            "code": "<span class=\"chip\">DLC Code</span> + 00914b",
             "is_dlc": true
         },
         {
@@ -2693,7 +2693,7 @@
         },
         {
             "name": "High Confessor's Helm",
-            "code": "DLC Code + 0391e8",
+            "code": "<span class=\"chip\">DLC Code</span> + 0391e8",
             "is_dlc": true
         },
         {
@@ -2753,17 +2753,17 @@
         },
         {
             "name": "Oswald's Tophat",
-            "code": "DLC Code + 050dd1",
+            "code": "<span class=\"chip\">DLC Code</span> + 050dd1",
             "is_dlc": true
         },
         {
             "name": "Pack Beanie",
-            "code": "DLC Code + 02770d",
+            "code": "<span class=\"chip\">DLC Code</span> + 02770d",
             "is_dlc": true
         },
         {
             "name": "Pirate Hat",
-            "code": "DLC Code + 04262b",
+            "code": "<span class=\"chip\">DLC Code</span> + 04262b",
             "is_dlc": true
         },
         {
@@ -2783,7 +2783,7 @@
         },
         {
             "name": "Prospector's Hat",
-            "code": "DLC Code + 04231f",
+            "code": "<span class=\"chip\">DLC Code</span> + 04231f",
             "is_dlc": true
         },
         {
@@ -2803,12 +2803,12 @@
         },
         {
             "name": "The Captain's Hat",
-            "code": "DLC Code + 04b9b3",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b9b3",
             "is_dlc": true
         },
         {
             "name": "The Dapper Gent",
-            "code": "DLC Code + 05159b",
+            "code": "<span class=\"chip\">DLC Code</span> + 05159b",
             "is_dlc": true
         },
         {
@@ -2843,7 +2843,7 @@
         },
         {
             "name": "Wool Fisherman's Cap",
-            "code": "DLC Code + 00914c",
+            "code": "<span class=\"chip\">DLC Code</span> + 00914c",
             "is_dlc": true
         },
         {
@@ -2873,7 +2873,7 @@
         },
         {
             "name": "Cappy Glasses",
-            "code": "DLC Code + 013a47",
+            "code": "<span class=\"chip\">DLC Code</span> + 013a47",
             "is_dlc": true
         },
         {
@@ -2888,7 +2888,7 @@
         },
         {
             "name": "Gage's Eyepatch",
-            "code": "DLC Code + 0340bb",
+            "code": "<span class=\"chip\">DLC Code</span> + 0340bb",
             "is_dlc": true
         },
         {
@@ -2903,12 +2903,12 @@
         },
         {
             "name": "Operators Glasses",
-            "code": "DLC Code + 02873e",
+            "code": "<span class=\"chip\">DLC Code</span> + 02873e",
             "is_dlc": true
         },
         {
             "name": "Operators Goggles",
-            "code": "DLC Code + 02873d",
+            "code": "<span class=\"chip\">DLC Code</span> + 02873d",
             "is_dlc": true
         },
         {
@@ -3040,7 +3040,7 @@
         },
         {
             "name": "Western Revolver",
-            "code": "DLC Code + 0415b3",
+            "code": "<span class=\"chip\">DLC Code</span> + 0415b3",
             "is_dlc": true
         },
         {
@@ -3050,7 +3050,7 @@
         },
         {
             "name": "December's Child",
-            "code": "DLC Code + 014459",
+            "code": "<span class=\"chip\">DLC Code</span> + 014459",
             "is_dlc": true
         },
         {
@@ -3070,7 +3070,7 @@
         },
         {
             "name": "Handmade Rifle",
-            "code": "DLC Code + 033b60",
+            "code": "<span class=\"chip\">DLC Code</span> + 033b60",
             "is_dlc": true
         },
         {
@@ -3095,32 +3095,32 @@
         },
         {
             "name": "Lever-action Rifle",
-            "code": "DLC Code + 02c8b0",
+            "code": "<span class=\"chip\">DLC Code</span> + 02c8b0",
             "is_dlc": true
         },
         {
             "name": "Lucky Eddy",
-            "code": "DLC Code + 045675",
+            "code": "<span class=\"chip\">DLC Code</span> + 045675",
             "is_dlc": true
         },
         {
             "name": "Old Reliable",
-            "code": "DLC Code + 05158f",
+            "code": "<span class=\"chip\">DLC Code</span> + 05158f",
             "is_dlc": true
         },
         {
             "name": "Radium Rifle",
-            "code": "DLC Code + 025fc4",
+            "code": "<span class=\"chip\">DLC Code</span> + 025fc4",
             "is_dlc": true
         },
         {
             "name": "Kiloton Radium Rifle",
-            "code": "DLC Code + 05158e",
+            "code": "<span class=\"chip\">DLC Code</span> + 05158e",
             "is_dlc": true
         },
         {
             "name": "Radical Conversion",
-            "code": "DLC Code + 045673",
+            "code": "<span class=\"chip\">DLC Code</span> + 045673",
             "is_dlc": true
         },
         {
@@ -3195,12 +3195,12 @@
         },
         {
             "name": "The Striker",
-            "code": "DLC Code + 031702",
+            "code": "<span class=\"chip\">DLC Code</span> + 031702",
             "is_dlc": true
         },
         {
             "name": "Nuka-nuke Launcher",
-            "code": "DLC Code + 05178f",
+            "code": "<span class=\"chip\">DLC Code</span> + 05178f",
             "is_dlc": true
         },
         {
@@ -3210,27 +3210,27 @@
         },
         {
             "name": "Sergeant Ash",
-            "code": "DLC Code + 051599",
+            "code": "<span class=\"chip\">DLC Code</span> + 051599",
             "is_dlc": true
         },
         {
             "name": "Harpoon Gun",
-            "code": "DLC Code + 010b81",
+            "code": "<span class=\"chip\">DLC Code</span> + 010b81",
             "is_dlc": true
         },
         {
             "name": "Admiral's Friend",
-            "code": "DLC Code + 05158b",
+            "code": "<span class=\"chip\">DLC Code</span> + 05158b",
             "is_dlc": true
         },
         {
             "name": "Skipper's Last Stand",
-            "code": "DLC Code + 04e752",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e752",
             "is_dlc": true
         },
         {
             "name": "Defender's Harpoon Gun",
-            "code": "DLC Code + 032507",
+            "code": "<span class=\"chip\">DLC Code</span> + 032507",
             "is_dlc": true
         },
         {
@@ -3330,7 +3330,7 @@
         },
         {
             "name": "Aeternus",
-            "code": "DLC Code + 04ec35",
+            "code": "<span class=\"chip\">DLC Code</span> + 04ec35",
             "is_dlc": true
         },
         {
@@ -3355,7 +3355,7 @@
         },
         {
             "name": "Hub's Alien Blaster",
-            "code": "DLC Code + 000000",
+            "code": "<span class=\"chip\">DLC Code</span> + 000000",
             "is_dlc": true
         },
         {
@@ -3365,17 +3365,17 @@
         },
         {
             "name": "Thirst Zapper",
-            "code": "DLC Code + 007bc8",
+            "code": "<span class=\"chip\">DLC Code</span> + 007bc8",
             "is_dlc": true
         },
         {
             "name": "Salvaged Assaultron Head",
-            "code": "DLC Code + 0100b7",
+            "code": "<span class=\"chip\">DLC Code</span> + 0100b7",
             "is_dlc": true
         },
         {
             "name": "Tesla Rifle",
-            "code": "DLC Code + 003e07",
+            "code": "<span class=\"chip\">DLC Code</span> + 003e07",
             "is_dlc": true
         },
         {
@@ -3395,7 +3395,7 @@
         },
         {
             "name": "Acid Soaker",
-            "code": "DLC Code + 007bc6",
+            "code": "<span class=\"chip\">DLC Code</span> + 007bc6",
             "is_dlc": true
         },
         {
@@ -3415,12 +3415,12 @@
         },
         {
             "name": "Fragmentation Grenade Mirv",
-            "code": "DLC Code + 033905",
+            "code": "<span class=\"chip\">DLC Code</span> + 033905",
             "is_dlc": true
         },
         {
             "name": "Smart Fragmentation Grenade",
-            "code": "DLC Code + 0346fc",
+            "code": "<span class=\"chip\">DLC Code</span> + 0346fc",
             "is_dlc": true
         },
         {
@@ -3430,17 +3430,17 @@
         },
         {
             "name": "Fury Grenade",
-            "code": "DLC Code + 02618b",
+            "code": "<span class=\"chip\">DLC Code</span> + 02618b",
             "is_dlc": true
         },
         {
             "name": "Persuasion Grenade",
-            "code": "DLC Code + 023e60",
+            "code": "<span class=\"chip\">DLC Code</span> + 023e60",
             "is_dlc": true
         },
         {
             "name": "Predator Grenade",
-            "code": "DLC Code + 025b0a",
+            "code": "<span class=\"chip\">DLC Code</span> + 025b0a",
             "is_dlc": true
         },
         {
@@ -3465,12 +3465,12 @@
         },
         {
             "name": "Nuka Cherry Grenade",
-            "code": "DLC Code + 040cdd",
+            "code": "<span class=\"chip\">DLC Code</span> + 040cdd",
             "is_dlc": true
         },
         {
             "name": "Nuka Quantum Grenade",
-            "code": "DLC Code + 040cde",
+            "code": "<span class=\"chip\">DLC Code</span> + 040cde",
             "is_dlc": true
         },
         {
@@ -3535,32 +3535,32 @@
         },
         {
             "name": "Bear Trap",
-            "code": "DLC Code + 054072",
+            "code": "<span class=\"chip\">DLC Code</span> + 054072",
             "is_dlc": true
         },
         {
             "name": "Bleeding Bear Trap",
-            "code": "DLC Code + 0540f7",
+            "code": "<span class=\"chip\">DLC Code</span> + 0540f7",
             "is_dlc": true
         },
         {
             "name": "Caltrops",
-            "code": "DLC Code + 05406e",
+            "code": "<span class=\"chip\">DLC Code</span> + 05406e",
             "is_dlc": true
         },
         {
             "name": "Poisoned Caltrops",
-            "code": "DLC Code + 0540ed",
+            "code": "<span class=\"chip\">DLC Code</span> + 0540ed",
             "is_dlc": true
         },
         {
             "name": "Assaultron Blade",
-            "code": "DLC Code + 008b8e",
+            "code": "<span class=\"chip\">DLC Code</span> + 008b8e",
             "is_dlc": true
         },
         {
             "name": "Sword Of Wonders",
-            "code": "DLC Code + 050dd3",
+            "code": "<span class=\"chip\">DLC Code</span> + 050dd3",
             "is_dlc": true
         },
         {
@@ -3580,12 +3580,12 @@
         },
         {
             "name": "Disciples Blade",
-            "code": "DLC Code + 01aabc",
+            "code": "<span class=\"chip\">DLC Code</span> + 01aabc",
             "is_dlc": true
         },
         {
             "name": "Throatslicer",
-            "code": "DLC Code + 04e422",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e422",
             "is_dlc": true
         },
         {
@@ -3605,7 +3605,7 @@
         },
         {
             "name": "Mr. Handy Buzz Blade",
-            "code": "DLC Code + 0020f8",
+            "code": "<span class=\"chip\">DLC Code</span> + 0020f8",
             "is_dlc": true
         },
         {
@@ -3625,7 +3625,7 @@
         },
         {
             "name": "The Harvester",
-            "code": "DLC Code + 04fa7e",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fa7e",
             "is_dlc": true
         },
         {
@@ -3650,12 +3650,12 @@
         },
         {
             "name": "Cito's Shiny Slugger",
-            "code": "DLC Code + 04f084",
+            "code": "<span class=\"chip\">DLC Code</span> + 04f084",
             "is_dlc": true
         },
         {
             "name": "Fencebuster",
-            "code": "DLC Code + 04923c",
+            "code": "<span class=\"chip\">DLC Code</span> + 04923c",
             "is_dlc": true
         },
         {
@@ -3670,7 +3670,7 @@
         },
         {
             "name": "Commie Whacker",
-            "code": "DLC Code + 052926",
+            "code": "<span class=\"chip\">DLC Code</span> + 052926",
             "is_dlc": true
         },
         {
@@ -3690,17 +3690,17 @@
         },
         {
             "name": "Pole Hook",
-            "code": "DLC Code + 009582",
+            "code": "<span class=\"chip\">DLC Code</span> + 009582",
             "is_dlc": true
         },
         {
             "name": "Bloodletter",
-            "code": "DLC Code + 034e7b",
+            "code": "<span class=\"chip\">DLC Code</span> + 034e7b",
             "is_dlc": true
         },
         {
             "name": "The Fish Catcher",
-            "code": "DLC Code + 05158d",
+            "code": "<span class=\"chip\">DLC Code</span> + 05158d",
             "is_dlc": true
         },
         {
@@ -3730,7 +3730,7 @@
         },
         {
             "name": "Atom's Judgement",
-            "code": "DLC Code + 03a388",
+            "code": "<span class=\"chip\">DLC Code</span> + 03a388",
             "is_dlc": true
         },
         {
@@ -3765,12 +3765,12 @@
         },
         {
             "name": "Meat Hook",
-            "code": "DLC Code + 04b5f4",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b5f4",
             "is_dlc": true
         },
         {
             "name": "Butcher's Hook",
-            "code": "DLC Code + 05158c",
+            "code": "<span class=\"chip\">DLC Code</span> + 05158c",
             "is_dlc": true
         },
         {
@@ -5262,107 +5262,107 @@
         },
         {
             "name": "M-sat",
-            "code": "DLC Code + 00b7ec",
+            "code": "<span class=\"chip\">DLC Code</span> + 00b7ec",
             "is_dlc": true
         },
         {
             "name": "Galactron Space Head Nuka-world_(add-on)",
-            "code": "DLC Code + 001a27",
+            "code": "<span class=\"chip\">DLC Code</span> + 001a27",
             "is_dlc": true
         },
         {
             "name": "Assaultron Head",
-            "code": "DLC Code + 001a23",
+            "code": "<span class=\"chip\">DLC Code</span> + 001a23",
             "is_dlc": true
         },
         {
             "name": "Assaultron Head Laser",
-            "code": "DLC Code + 001a25",
+            "code": "<span class=\"chip\">DLC Code</span> + 001a25",
             "is_dlc": true
         },
         {
             "name": "Space Sentry Head Nuka-world_(add-on)",
-            "code": "DLC Code + 001a2b",
+            "code": "<span class=\"chip\">DLC Code</span> + 001a2b",
             "is_dlc": true
         },
         {
             "name": "Sentry Factory Head",
-            "code": "DLC Code + 001a2d",
+            "code": "<span class=\"chip\">DLC Code</span> + 001a2d",
             "is_dlc": true
         },
         {
             "name": "Robobrain Head",
-            "code": "DLC Code + 001ce3",
+            "code": "<span class=\"chip\">DLC Code</span> + 001ce3",
             "is_dlc": true
         },
         {
             "name": "Jezebel's Head",
-            "code": "DLC Code + 0008c6",
+            "code": "<span class=\"chip\">DLC Code</span> + 0008c6",
             "is_dlc": true
         },
         {
             "name": "Sentry Torso",
-            "code": "DLC Code + 001a5f",
+            "code": "<span class=\"chip\">DLC Code</span> + 001a5f",
             "is_dlc": true
         },
         {
             "name": "Hacking Module",
-            "code": "DLC Code + 011380",
+            "code": "<span class=\"chip\">DLC Code</span> + 011380",
             "is_dlc": true
         },
         {
             "name": "Lockpick Module",
-            "code": "DLC Code + 011382",
+            "code": "<span class=\"chip\">DLC Code</span> + 011382",
             "is_dlc": true
         },
         {
             "name": "Sensor Array",
-            "code": "DLC Code + 0012aa",
+            "code": "<span class=\"chip\">DLC Code</span> + 0012aa",
             "is_dlc": true
         },
         {
             "name": "Recon Sensors",
-            "code": "DLC Code + 00124f",
+            "code": "<span class=\"chip\">DLC Code</span> + 00124f",
             "is_dlc": true
         },
         {
             "name": "Radiation Coils",
-            "code": "DLC Code + 0012ae",
+            "code": "<span class=\"chip\">DLC Code</span> + 0012ae",
             "is_dlc": true
         },
         {
             "name": "Stealth Field",
-            "code": "DLC Code + 0012a8",
+            "code": "<span class=\"chip\">DLC Code</span> + 0012a8",
             "is_dlc": true
         },
         {
             "name": "Tesla Coils",
-            "code": "DLC Code + 0012b0",
+            "code": "<span class=\"chip\">DLC Code</span> + 0012b0",
             "is_dlc": true
         },
         {
             "name": "Resistance Field",
-            "code": "DLC Code + 0012a6",
+            "code": "<span class=\"chip\">DLC Code</span> + 0012a6",
             "is_dlc": true
         },
         {
             "name": "Regeneration Field",
-            "code": "DLC Code + 0012ac",
+            "code": "<span class=\"chip\">DLC Code</span> + 0012ac",
             "is_dlc": true
         },
         {
             "name": "Sentry Bot Arm",
-            "code": "DLC Code + 002d4b",
+            "code": "<span class=\"chip\">DLC Code</span> + 002d4b",
             "is_dlc": true
         },
         {
             "name": "Nuka-mascot Legs Nuka-world_(add-on)",
-            "code": "DLC Code + 001a31",
+            "code": "<span class=\"chip\">DLC Code</span> + 001a31",
             "is_dlc": true
         },
         {
             "name": "Space Sentry Legs Nuka-world_(add-on)",
-            "code": "DLC Code + 001a3b",
+            "code": "<span class=\"chip\">DLC Code</span> + 001a3b",
             "is_dlc": true
         }
     ],
@@ -5471,12 +5471,12 @@
     "consumable": [
         {
             "name": "Angler Meat",
-            "code": "DLC Code + 01c714",
+            "code": "<span class=\"chip\">DLC Code</span> + 01c714",
             "is_dlc": true
         },
         {
             "name": "Ant Meat",
-            "code": "DLC Code + 0138ee",
+            "code": "<span class=\"chip\">DLC Code</span> + 0138ee",
             "is_dlc": true
         },
         {
@@ -5486,7 +5486,7 @@
         },
         {
             "name": "Aster",
-            "code": "DLC Code + 013384",
+            "code": "<span class=\"chip\">DLC Code</span> + 013384",
             "is_dlc": true
         },
         {
@@ -5496,7 +5496,7 @@
         },
         {
             "name": "Black Bloodleaf",
-            "code": "DLC Code + 01b189",
+            "code": "<span class=\"chip\">DLC Code</span> + 01b189",
             "is_dlc": true
         },
         {
@@ -5506,7 +5506,7 @@
         },
         {
             "name": "Blight",
-            "code": "DLC Code + 044042",
+            "code": "<span class=\"chip\">DLC Code</span> + 044042",
             "is_dlc": true
         },
         {
@@ -5531,7 +5531,7 @@
         },
         {
             "name": "Bloodworm Meat",
-            "code": "DLC Code + 0138c3",
+            "code": "<span class=\"chip\">DLC Code</span> + 0138c3",
             "is_dlc": true
         },
         {
@@ -5571,22 +5571,22 @@
         },
         {
             "name": "Cave Cricket Gland",
-            "code": "DLC Code + 026189",
+            "code": "<span class=\"chip\">DLC Code</span> + 026189",
             "is_dlc": true
         },
         {
             "name": "Cave Cricket Meat",
-            "code": "DLC Code + 0138c4",
+            "code": "<span class=\"chip\">DLC Code</span> + 0138c4",
             "is_dlc": true
         },
         {
             "name": "Chicken Noodle Soup",
-            "code": "DLC Code + 05715b",
+            "code": "<span class=\"chip\">DLC Code</span> + 05715b",
             "is_dlc": true
         },
         {
             "name": "Chicken Thigh",
-            "code": "DLC Code + 056a4a",
+            "code": "<span class=\"chip\">DLC Code</span> + 056a4a",
             "is_dlc": true
         },
         {
@@ -5601,7 +5601,7 @@
         },
         {
             "name": "Cotton Candy Bites",
-            "code": "DLC Code + 02689a",
+            "code": "<span class=\"chip\">DLC Code</span> + 02689a",
             "is_dlc": true
         },
         {
@@ -5611,7 +5611,7 @@
         },
         {
             "name": "Crispy Cave Cricket",
-            "code": "DLC Code + 04cbbd",
+            "code": "<span class=\"chip\">DLC Code</span> + 04cbbd",
             "is_dlc": true
         },
         {
@@ -5661,7 +5661,7 @@
         },
         {
             "name": "Fever Blossom",
-            "code": "DLC Code + 01cd24",
+            "code": "<span class=\"chip\">DLC Code</span> + 01cd24",
             "is_dlc": true
         },
         {
@@ -5691,37 +5691,37 @@
         },
         {
             "name": "Fried Fog Crawler",
-            "code": "DLC Code + 048401",
+            "code": "<span class=\"chip\">DLC Code</span> + 048401",
             "is_dlc": true
         },
         {
             "name": "Funnel Cake",
-            "code": "DLC Code + 02689b",
+            "code": "<span class=\"chip\">DLC Code</span> + 02689b",
             "is_dlc": true
         },
         {
             "name": "Gatorclaw Meat",
-            "code": "DLC Code + 04aa17",
+            "code": "<span class=\"chip\">DLC Code</span> + 04aa17",
             "is_dlc": true
         },
         {
             "name": "Gatorclaw Steak",
-            "code": "DLC Code + 04aa1c",
+            "code": "<span class=\"chip\">DLC Code</span> + 04aa1c",
             "is_dlc": true
         },
         {
             "name": "Gazelle Meat",
-            "code": "DLC Code + 04b419",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b419",
             "is_dlc": true
         },
         {
             "name": "Gazelle Steak",
-            "code": "DLC Code + 04cbb9",
+            "code": "<span class=\"chip\">DLC Code</span> + 04cbb9",
             "is_dlc": true
         },
         {
             "name": "Ghoulrilla Meat",
-            "code": "DLC Code + 0518d3",
+            "code": "<span class=\"chip\">DLC Code</span> + 0518d3",
             "is_dlc": true
         },
         {
@@ -5741,12 +5741,12 @@
         },
         {
             "name": "Grilled Nukalurk",
-            "code": "DLC Code + 04aa1d",
+            "code": "<span class=\"chip\">DLC Code</span> + 04aa1d",
             "is_dlc": true
         },
         {
             "name": "Grilled Queen Nukalurk",
-            "code": "DLC Code + 04aa24",
+            "code": "<span class=\"chip\">DLC Code</span> + 04aa24",
             "is_dlc": true
         },
         {
@@ -5756,7 +5756,7 @@
         },
         {
             "name": "Grilled Hermit Crab",
-            "code": "DLC Code + 04ba12",
+            "code": "<span class=\"chip\">DLC Code</span> + 04ba12",
             "is_dlc": true
         },
         {
@@ -5771,12 +5771,12 @@
         },
         {
             "name": "Gulper Innards",
-            "code": "DLC Code + 04d2e7",
+            "code": "<span class=\"chip\">DLC Code</span> + 04d2e7",
             "is_dlc": true
         },
         {
             "name": "Gulper Slurry",
-            "code": "DLC Code + 04d2e8",
+            "code": "<span class=\"chip\">DLC Code</span> + 04d2e8",
             "is_dlc": true
         },
         {
@@ -5791,7 +5791,7 @@
         },
         {
             "name": "Hermit Crab Meat",
-            "code": "DLC Code + 04ba11",
+            "code": "<span class=\"chip\">DLC Code</span> + 04ba11",
             "is_dlc": true
         },
         {
@@ -5826,7 +5826,7 @@
         },
         {
             "name": "Lure Weed",
-            "code": "DLC Code + 044043",
+            "code": "<span class=\"chip\">DLC Code</span> + 044043",
             "is_dlc": true
         },
         {
@@ -5856,7 +5856,7 @@
         },
         {
             "name": "Mirelurk Jerky",
-            "code": "DLC Code + 032c2e",
+            "code": "<span class=\"chip\">DLC Code</span> + 032c2e",
             "is_dlc": true
         },
         {
@@ -5916,12 +5916,12 @@
         },
         {
             "name": "Mystery Bacon",
-            "code": "DLC Code + 042ca6",
+            "code": "<span class=\"chip\">DLC Code</span> + 042ca6",
             "is_dlc": true
         },
         {
             "name": "Mystery Jerky",
-            "code": "DLC Code + 042ca1",
+            "code": "<span class=\"chip\">DLC Code</span> + 042ca1",
             "is_dlc": true
         },
         {
@@ -5931,7 +5931,7 @@
         },
         {
             "name": "Nukalurk Meat",
-            "code": "DLC Code + 04aa1e",
+            "code": "<span class=\"chip\">DLC Code</span> + 04aa1e",
             "is_dlc": true
         },
         {
@@ -5941,7 +5941,7 @@
         },
         {
             "name": "Poached Angler",
-            "code": "DLC Code + 01c717",
+            "code": "<span class=\"chip\">DLC Code</span> + 01c717",
             "is_dlc": true
         },
         {
@@ -5976,22 +5976,22 @@
         },
         {
             "name": "Queen Nukalurk Meat",
-            "code": "DLC Code + 04aa23",
+            "code": "<span class=\"chip\">DLC Code</span> + 04aa23",
             "is_dlc": true
         },
         {
             "name": "Rabbit Leg",
-            "code": "DLC Code + 056a49",
+            "code": "<span class=\"chip\">DLC Code</span> + 056a49",
             "is_dlc": true
         },
         {
             "name": "Rad-rat Meat",
-            "code": "DLC Code + 0138f7",
+            "code": "<span class=\"chip\">DLC Code</span> + 0138f7",
             "is_dlc": true
         },
         {
             "name": "Rad-rat Steak",
-            "code": "DLC Code + 04c0e3",
+            "code": "<span class=\"chip\">DLC Code</span> + 04c0e3",
             "is_dlc": true
         },
         {
@@ -6031,12 +6031,12 @@
         },
         {
             "name": "Raw Fog Crawler Meat",
-            "code": "DLC Code + 01c710",
+            "code": "<span class=\"chip\">DLC Code</span> + 01c710",
             "is_dlc": true
         },
         {
             "name": "Raw Sap",
-            "code": "DLC Code + 04e773",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e773",
             "is_dlc": true
         },
         {
@@ -6051,12 +6051,12 @@
         },
         {
             "name": "Roasted Ant",
-            "code": "DLC Code + 04cbbc",
+            "code": "<span class=\"chip\">DLC Code</span> + 04cbbc",
             "is_dlc": true
         },
         {
             "name": "Roasted Bloodworm",
-            "code": "DLC Code + 04cbbf",
+            "code": "<span class=\"chip\">DLC Code</span> + 04cbbf",
             "is_dlc": true
         },
         {
@@ -6071,7 +6071,7 @@
         },
         {
             "name": "Seasoned Rabbit Skewers",
-            "code": "DLC Code + 027158",
+            "code": "<span class=\"chip\">DLC Code</span> + 027158",
             "is_dlc": true
         },
         {
@@ -6151,7 +6151,7 @@
         },
         {
             "name": "The Captain's Feast",
-            "code": "DLC Code + 00f11d",
+            "code": "<span class=\"chip\">DLC Code</span> + 00f11d",
             "is_dlc": true
         },
         {
@@ -6186,12 +6186,12 @@
         },
         {
             "name": "Wolf Meat",
-            "code": "DLC Code + 0140f9",
+            "code": "<span class=\"chip\">DLC Code</span> + 0140f9",
             "is_dlc": true
         },
         {
             "name": "Wolf Ribs",
-            "code": "DLC Code + 048400",
+            "code": "<span class=\"chip\">DLC Code</span> + 048400",
             "is_dlc": true
         },
         {
@@ -6326,22 +6326,22 @@
         },
         {
             "name": "Ice Cold Newka-cola",
-            "code": "DLC Code + 0052af",
+            "code": "<span class=\"chip\">DLC Code</span> + 0052af",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-berry",
-            "code": "DLC Code + 0502a9",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502a9",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-bombdrop",
-            "code": "DLC Code + 0502ac",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502ac",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-buzz",
-            "code": "DLC Code + 0502b2",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502b2",
             "is_dlc": true
         },
         {
@@ -6351,7 +6351,7 @@
         },
         {
             "name": "Ice Cold Nuka-cide",
-            "code": "DLC Code + 0502b4",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502b4",
             "is_dlc": true
         },
         {
@@ -6361,12 +6361,12 @@
         },
         {
             "name": "Ice Cold Nuka-cola Dark",
-            "code": "DLC Code + 02ade9",
+            "code": "<span class=\"chip\">DLC Code</span> + 02ade9",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-cola Orange",
-            "code": "DLC Code + 02edad",
+            "code": "<span class=\"chip\">DLC Code</span> + 02edad",
             "is_dlc": true
         },
         {
@@ -6376,112 +6376,112 @@
         },
         {
             "name": "Ice Cold Nuka-cola Quartz",
-            "code": "DLC Code + 02edaf",
+            "code": "<span class=\"chip\">DLC Code</span> + 02edaf",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-cola Victory",
-            "code": "DLC Code + 02edb0",
+            "code": "<span class=\"chip\">DLC Code</span> + 02edb0",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-cola Wild",
-            "code": "DLC Code + 02edb1",
+            "code": "<span class=\"chip\">DLC Code</span> + 02edb1",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-fancy",
-            "code": "DLC Code + 0502b7",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502b7",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-free",
-            "code": "DLC Code + 0502ba",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502ba",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-frutti",
-            "code": "DLC Code + 0502bd",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502bd",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-grape",
-            "code": "DLC Code + 02edab",
+            "code": "<span class=\"chip\">DLC Code</span> + 02edab",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-hearty",
-            "code": "DLC Code + 0502c0",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502c0",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-lixir",
-            "code": "DLC Code + 0502c3",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502c3",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-love",
-            "code": "DLC Code + 0502c6",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502c6",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-power",
-            "code": "DLC Code + 0502c9",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502c9",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-punch",
-            "code": "DLC Code + 0502cc",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502cc",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-ray",
-            "code": "DLC Code + 0502cf",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502cf",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-rush",
-            "code": "DLC Code + 0502d2",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502d2",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-sunrise",
-            "code": "DLC Code + 0502d8",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502d8",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-twin",
-            "code": "DLC Code + 0502db",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502db",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-void",
-            "code": "DLC Code + 0502de",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502de",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Nuka-xtreme",
-            "code": "DLC Code + 0502e1",
+            "code": "<span class=\"chip\">DLC Code</span> + 0502e1",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Vim",
-            "code": "DLC Code + 054281",
+            "code": "<span class=\"chip\">DLC Code</span> + 054281",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Vim Captain's Blend",
-            "code": "DLC Code + 054282",
+            "code": "<span class=\"chip\">DLC Code</span> + 054282",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Vim Quartz",
-            "code": "DLC Code + 054284",
+            "code": "<span class=\"chip\">DLC Code</span> + 054284",
             "is_dlc": true
         },
         {
             "name": "Ice Cold Vim Refresh",
-            "code": "DLC Code + 054286",
+            "code": "<span class=\"chip\">DLC Code</span> + 054286",
             "is_dlc": true
         },
         {
@@ -6496,22 +6496,22 @@
         },
         {
             "name": "Newka-cola",
-            "code": "DLC Code + 030eff",
+            "code": "<span class=\"chip\">DLC Code</span> + 030eff",
             "is_dlc": true
         },
         {
             "name": "Nuka-berry",
-            "code": "DLC Code + 030efd",
+            "code": "<span class=\"chip\">DLC Code</span> + 030efd",
             "is_dlc": true
         },
         {
             "name": "Nuka-bombdrop",
-            "code": "DLC Code + 03b8b4",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b8b4",
             "is_dlc": true
         },
         {
             "name": "Nuka-buzz",
-            "code": "DLC Code + 030f02",
+            "code": "<span class=\"chip\">DLC Code</span> + 030f02",
             "is_dlc": true
         },
         {
@@ -6521,7 +6521,7 @@
         },
         {
             "name": "Nuka-cide",
-            "code": "DLC Code + 030ef6",
+            "code": "<span class=\"chip\">DLC Code</span> + 030ef6",
             "is_dlc": true
         },
         {
@@ -6531,12 +6531,12 @@
         },
         {
             "name": "Nuka-cola Dark",
-            "code": "DLC Code + 024536",
+            "code": "<span class=\"chip\">DLC Code</span> + 024536",
             "is_dlc": true
         },
         {
             "name": "Nuka-cola Orange",
-            "code": "DLC Code + 02453a",
+            "code": "<span class=\"chip\">DLC Code</span> + 02453a",
             "is_dlc": true
         },
         {
@@ -6546,97 +6546,97 @@
         },
         {
             "name": "Nuka-cola Quartz",
-            "code": "DLC Code + 024538",
+            "code": "<span class=\"chip\">DLC Code</span> + 024538",
             "is_dlc": true
         },
         {
             "name": "Nuka-cola Victory",
-            "code": "DLC Code + 024544",
+            "code": "<span class=\"chip\">DLC Code</span> + 024544",
             "is_dlc": true
         },
         {
             "name": "Nuka-cola Wild",
-            "code": "DLC Code + 02453d",
+            "code": "<span class=\"chip\">DLC Code</span> + 02453d",
             "is_dlc": true
         },
         {
             "name": "Nuka-cooler",
-            "code": "DLC Code + 030efa",
+            "code": "<span class=\"chip\">DLC Code</span> + 030efa",
             "is_dlc": true
         },
         {
             "name": "Nuka-fancy",
-            "code": "DLC Code + 030f01",
+            "code": "<span class=\"chip\">DLC Code</span> + 030f01",
             "is_dlc": true
         },
         {
             "name": "Nuka-free",
-            "code": "DLC Code + 042c39",
+            "code": "<span class=\"chip\">DLC Code</span> + 042c39",
             "is_dlc": true
         },
         {
             "name": "Nuka-frutti",
-            "code": "DLC Code + 03b8b3",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b8b3",
             "is_dlc": true
         },
         {
             "name": "Nuka-grape",
-            "code": "DLC Code + 024534",
+            "code": "<span class=\"chip\">DLC Code</span> + 024534",
             "is_dlc": true
         },
         {
             "name": "Nuka-hearty",
-            "code": "DLC Code + 042c3d",
+            "code": "<span class=\"chip\">DLC Code</span> + 042c3d",
             "is_dlc": true
         },
         {
             "name": "Nuka-lixir",
-            "code": "DLC Code + 042c41",
+            "code": "<span class=\"chip\">DLC Code</span> + 042c41",
             "is_dlc": true
         },
         {
             "name": "Nuka-love",
-            "code": "DLC Code + 030efc",
+            "code": "<span class=\"chip\">DLC Code</span> + 030efc",
             "is_dlc": true
         },
         {
             "name": "Nuka-power",
-            "code": "DLC Code + 030efe",
+            "code": "<span class=\"chip\">DLC Code</span> + 030efe",
             "is_dlc": true
         },
         {
             "name": "Nuka-punch",
-            "code": "DLC Code + 030ef7",
+            "code": "<span class=\"chip\">DLC Code</span> + 030ef7",
             "is_dlc": true
         },
         {
             "name": "Nuka-ray",
-            "code": "DLC Code + 03b8b2",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b8b2",
             "is_dlc": true
         },
         {
             "name": "Nuka-rush",
-            "code": "DLC Code + 030ef8",
+            "code": "<span class=\"chip\">DLC Code</span> + 030ef8",
             "is_dlc": true
         },
         {
             "name": "Nuka-sunrise",
-            "code": "DLC Code + 042c43",
+            "code": "<span class=\"chip\">DLC Code</span> + 042c43",
             "is_dlc": true
         },
         {
             "name": "Nuka-twin",
-            "code": "DLC Code + 030f00",
+            "code": "<span class=\"chip\">DLC Code</span> + 030f00",
             "is_dlc": true
         },
         {
             "name": "Nuka-void",
-            "code": "DLC Code + 030efb",
+            "code": "<span class=\"chip\">DLC Code</span> + 030efb",
             "is_dlc": true
         },
         {
             "name": "Nuka-xtreme",
-            "code": "DLC Code + 030ef9",
+            "code": "<span class=\"chip\">DLC Code</span> + 030ef9",
             "is_dlc": true
         },
         {
@@ -6661,22 +6661,22 @@
         },
         {
             "name": "Vim",
-            "code": "DLC Code + 008833",
+            "code": "<span class=\"chip\">DLC Code</span> + 008833",
             "is_dlc": true
         },
         {
             "name": "Vim Captain's Blend",
-            "code": "DLC Code + 0088a6",
+            "code": "<span class=\"chip\">DLC Code</span> + 0088a6",
             "is_dlc": true
         },
         {
             "name": "Vim Quartz",
-            "code": "DLC Code + 0088a8",
+            "code": "<span class=\"chip\">DLC Code</span> + 0088a8",
             "is_dlc": true
         },
         {
             "name": "Vim Refresh",
-            "code": "DLC Code + 0088aa",
+            "code": "<span class=\"chip\">DLC Code</span> + 0088aa",
             "is_dlc": true
         },
         {
@@ -6686,7 +6686,7 @@
         },
         {
             "name": "Ware's Brew",
-            "code": "DLC Code + 02b5d4 (cons.) xx043477 (item)",
+            "code": "<span class=\"chip\">DLC Code</span> + 02b5d4 (cons.) xx043477 (item)",
             "is_dlc": true
         },
         {
@@ -6706,7 +6706,7 @@
         },
         {
             "name": "Agile Sludgepak",
-            "code": "DLC Code + 048bd4",
+            "code": "<span class=\"chip\">DLC Code</span> + 048bd4",
             "is_dlc": true
         },
         {
@@ -6751,12 +6751,12 @@
         },
         {
             "name": "Durable Sludgepak",
-            "code": "DLC Code + 04b4bb",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b4bb",
             "is_dlc": true
         },
         {
             "name": "Fire Belly",
-            "code": "DLC Code + 04b5fa",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b5fa",
             "is_dlc": true
         },
         {
@@ -6851,7 +6851,7 @@
         },
         {
             "name": "Resilient Sludge Cocktail",
-            "code": "DLC Code + 054452",
+            "code": "<span class=\"chip\">DLC Code</span> + 054452",
             "is_dlc": true
         },
         {
@@ -6861,7 +6861,7 @@
         },
         {
             "name": "Smooth Operator",
-            "code": "DLC Code + 023e61",
+            "code": "<span class=\"chip\">DLC Code</span> + 023e61",
             "is_dlc": true
         },
         {
@@ -6871,7 +6871,7 @@
         },
         {
             "name": "Strong Sludge Cocktail",
-            "code": "DLC Code + 04b4b5",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b4b5",
             "is_dlc": true
         },
         {
@@ -8693,807 +8693,807 @@
         },
         {
             "name": "Automatron",
-            "code": "DLC Code + 007b20",
+            "code": "<span class=\"chip\">DLC Code</span> + 007b20",
             "is_dlc": true
         },
         {
             "name": "Chief Scientist's Holotape",
-            "code": "DLC Code + 008b44",
+            "code": "<span class=\"chip\">DLC Code</span> + 008b44",
             "is_dlc": true
         },
         {
             "name": "Drawing Of The Mechanist",
-            "code": "DLC Code + 00417b",
+            "code": "<span class=\"chip\">DLC Code</span> + 00417b",
             "is_dlc": true
         },
         {
             "name": "Facilities Director's Holotape",
-            "code": "DLC Code + 008b43",
+            "code": "<span class=\"chip\">DLC Code</span> + 008b43",
             "is_dlc": true
         },
         {
             "name": "Jackson's Holotape",
-            "code": "DLC Code + 010134",
+            "code": "<span class=\"chip\">DLC Code</span> + 010134",
             "is_dlc": true
         },
         {
             "name": "Jezebel Interview",
-            "code": "DLC Code + 011070",
+            "code": "<span class=\"chip\">DLC Code</span> + 011070",
             "is_dlc": true
         },
         {
             "name": "The Last Straw",
-            "code": "DLC Code + 00a2d3",
+            "code": "<span class=\"chip\">DLC Code</span> + 00a2d3",
             "is_dlc": true
         },
         {
             "name": "Lead Engineer's Holotape",
-            "code": "DLC Code + 008b42",
+            "code": "<span class=\"chip\">DLC Code</span> + 008b42",
             "is_dlc": true
         },
         {
             "name": "Mechanist Holotape",
-            "code": "DLC Code + 010a56 xx010a57 xx010a58",
+            "code": "<span class=\"chip\">DLC Code</span> + 010a56 xx010a57 xx010a58",
             "is_dlc": true
         },
         {
             "name": "Mechanist's Log",
-            "code": "DLC Code + 009fe1",
+            "code": "<span class=\"chip\">DLC Code</span> + 009fe1",
             "is_dlc": true
         },
         {
             "name": "Scavenger's Journal",
-            "code": "DLC Code + 0109d2",
+            "code": "<span class=\"chip\">DLC Code</span> + 0109d2",
             "is_dlc": true
         },
         {
             "name": "Work Order 09-241",
-            "code": "DLC Code + 008b62",
+            "code": "<span class=\"chip\">DLC Code</span> + 008b62",
             "is_dlc": true
         },
         {
             "name": "Zoe's Diary",
-            "code": "DLC Code + 0009d3",
+            "code": "<span class=\"chip\">DLC Code</span> + 0009d3",
             "is_dlc": true
         },
         {
             "name": "An Execution",
-            "code": "DLC Code + 03748b",
+            "code": "<span class=\"chip\">DLC Code</span> + 03748b",
             "is_dlc": true
         },
         {
             "name": "Chores List",
-            "code": "DLC Code + 0316e0",
+            "code": "<span class=\"chip\">DLC Code</span> + 0316e0",
             "is_dlc": true
         },
         {
             "name": "Dima's Memory",
-            "code": "DLC Code + 01e3fb xx01e3fc xx01e3fd xx01e711 xx01e712",
+            "code": "<span class=\"chip\">DLC Code</span> + 01e3fb xx01e3fc xx01e3fd xx01e711 xx01e712",
             "is_dlc": true
         },
         {
             "name": "Ezra's Holotape",
-            "code": "DLC Code + 04b1b7",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b1b7",
             "is_dlc": true
         },
         {
             "name": "Family Announcement",
-            "code": "DLC Code + 0316e1",
+            "code": "<span class=\"chip\">DLC Code</span> + 0316e1",
             "is_dlc": true
         },
         {
             "name": "Holotape",
-            "code": "DLC Code + 0316e2",
+            "code": "<span class=\"chip\">DLC Code</span> + 0316e2",
             "is_dlc": true
         },
         {
             "name": "Gwyneth's Journal",
-            "code": "DLC Code + 01c70b",
+            "code": "<span class=\"chip\">DLC Code</span> + 01c70b",
             "is_dlc": true
         },
         {
             "name": "Husky Family Holotape",
-            "code": "DLC Code + 0316c0",
+            "code": "<span class=\"chip\">DLC Code</span> + 0316c0",
             "is_dlc": true
         },
         {
             "name": "Levi's Holotape",
-            "code": "DLC Code + 02c34c",
+            "code": "<span class=\"chip\">DLC Code</span> + 02c34c",
             "is_dlc": true
         },
         {
             "name": "Mark Wilson's Holotape",
-            "code": "DLC Code + 02c34b",
+            "code": "<span class=\"chip\">DLC Code</span> + 02c34b",
             "is_dlc": true
         },
         {
             "name": "Martin's New Age",
-            "code": "DLC Code + 03748c",
+            "code": "<span class=\"chip\">DLC Code</span> + 03748c",
             "is_dlc": true
         },
         {
             "name": "Mysterious Holotape",
-            "code": "DLC Code + 02f1c9",
+            "code": "<span class=\"chip\">DLC Code</span> + 02f1c9",
             "is_dlc": true
         },
         {
             "name": "Safe Room Security Tape",
-            "code": "DLC Code + 032c52",
+            "code": "<span class=\"chip\">DLC Code</span> + 032c52",
             "is_dlc": true
         },
         {
             "name": "To Franny",
-            "code": "DLC Code + 040a4a",
+            "code": "<span class=\"chip\">DLC Code</span> + 040a4a",
             "is_dlc": true
         },
         {
             "name": "Vault 118 Overseer's Log",
-            "code": "DLC Code + 04e715",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e715",
             "is_dlc": true
         },
         {
             "name": "What Atom Requires",
-            "code": "DLC Code + 03748a",
+            "code": "<span class=\"chip\">DLC Code</span> + 03748a",
             "is_dlc": true
         },
         {
             "name": "What's Done Is Done",
-            "code": "DLC Code + 038d92",
+            "code": "<span class=\"chip\">DLC Code</span> + 038d92",
             "is_dlc": true
         },
         {
             "name": "A New Path",
-            "code": "DLC Code + 04fd1c",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fd1c",
             "is_dlc": true
         },
         {
             "name": "A Stranger Arrives",
-            "code": "DLC Code + 029418",
+            "code": "<span class=\"chip\">DLC Code</span> + 029418",
             "is_dlc": true
         },
         {
             "name": "A Vengeful Creature",
-            "code": "DLC Code + 029419",
+            "code": "<span class=\"chip\">DLC Code</span> + 029419",
             "is_dlc": true
         },
         {
             "name": "A Safer Way",
-            "code": "DLC Code + 02941b",
+            "code": "<span class=\"chip\">DLC Code</span> + 02941b",
             "is_dlc": true
         },
         {
             "name": "Aubert's Note",
-            "code": "DLC Code + 02c900",
+            "code": "<span class=\"chip\">DLC Code</span> + 02c900",
             "is_dlc": true
         },
         {
             "name": "Blank Note",
-            "code": "DLC Code + 0500a9",
+            "code": "<span class=\"chip\">DLC Code</span> + 0500a9",
             "is_dlc": true
         },
         {
             "name": "Brother Alders",
-            "code": "DLC Code + 04dfcb",
+            "code": "<span class=\"chip\">DLC Code</span> + 04dfcb",
             "is_dlc": true
         },
         {
             "name": "Brother Devin's Diary",
-            "code": "DLC Code + 04dfe5",
+            "code": "<span class=\"chip\">DLC Code</span> + 04dfe5",
             "is_dlc": true
         },
         {
             "name": "Carlo's Note",
-            "code": "DLC Code + 054226",
+            "code": "<span class=\"chip\">DLC Code</span> + 054226",
             "is_dlc": true
         },
         {
             "name": "Cog's Journal",
-            "code": "DLC Code + 038ed5",
+            "code": "<span class=\"chip\">DLC Code</span> + 038ed5",
             "is_dlc": true
         },
         {
             "name": "Consultation Note",
-            "code": "DLC Code + 04fb97",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fb97",
             "is_dlc": true
         },
         {
             "name": "Craneberry Island Supplies Note",
-            "code": "DLC Code + 04d21e",
+            "code": "<span class=\"chip\">DLC Code</span> + 04d21e",
             "is_dlc": true
         },
         {
             "name": "Douglas's Note",
-            "code": "DLC Code + 04fd11",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fd11",
             "is_dlc": true
         },
         {
             "name": "Drain Corpse Note",
-            "code": "DLC Code + 01b79d",
+            "code": "<span class=\"chip\">DLC Code</span> + 01b79d",
             "is_dlc": true
         },
         {
             "name": "Dylan's Note",
-            "code": "DLC Code + 054200",
+            "code": "<span class=\"chip\">DLC Code</span> + 054200",
             "is_dlc": true
         },
         {
             "name": "Edgar's Note",
-            "code": "DLC Code + 02c8ff",
+            "code": "<span class=\"chip\">DLC Code</span> + 02c8ff",
             "is_dlc": true
         },
         {
             "name": "Eliza Family Drawing",
-            "code": "DLC Code + 04faea",
+            "code": "<span class=\"chip\">DLC Code</span> + 04faea",
             "is_dlc": true
         },
         {
             "name": "Eliza Journals",
-            "code": "DLC Code + 04e97e xx04e97f xx04e980 xx04e981 xx04e982 xx04e983 xx04fae8",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e97e xx04e97f xx04e980 xx04e981 xx04e982 xx04e983 xx04fae8",
             "is_dlc": true
         },
         {
             "name": "Eliza Map Of Home",
-            "code": "DLC Code + 04dbc0",
+            "code": "<span class=\"chip\">DLC Code</span> + 04dbc0",
             "is_dlc": true
         },
         {
             "name": "Fanatical Writings",
-            "code": "DLC Code + 054204",
+            "code": "<span class=\"chip\">DLC Code</span> + 054204",
             "is_dlc": true
         },
         {
             "name": "Fire Belly Recipe",
-            "code": "DLC Code + 04b9b4",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b9b4",
             "is_dlc": true
         },
         {
             "name": "Gift Card",
-            "code": "DLC Code + 04eb5d",
+            "code": "<span class=\"chip\">DLC Code</span> + 04eb5d",
             "is_dlc": true
         },
         {
             "name": "Grandfather's Note",
-            "code": "DLC Code + 017e85",
+            "code": "<span class=\"chip\">DLC Code</span> + 017e85",
             "is_dlc": true
         },
         {
             "name": "High Confessor's Note",
-            "code": "DLC Code + 02c8fe",
+            "code": "<span class=\"chip\">DLC Code</span> + 02c8fe",
             "is_dlc": true
         },
         {
             "name": "Islander's Almanac",
-            "code": "DLC Code + 04ef8b xx04ef8d xx04ef8f xx04ef92 xx04ef94",
+            "code": "<span class=\"chip\">DLC Code</span> + 04ef8b xx04ef8d xx04ef8f xx04ef92 xx04ef94",
             "is_dlc": true
         },
         {
             "name": "Kasumi's Journal",
-            "code": "DLC Code + 017e8b",
+            "code": "<span class=\"chip\">DLC Code</span> + 017e8b",
             "is_dlc": true
         },
         {
             "name": "Kawaketak Station Flyer",
-            "code": "DLC Code + 01bc84",
+            "code": "<span class=\"chip\">DLC Code</span> + 01bc84",
             "is_dlc": true
         },
         {
             "name": "Kenji Nakano Case Notes",
-            "code": "DLC Code + 004f48",
+            "code": "<span class=\"chip\">DLC Code</span> + 004f48",
             "is_dlc": true
         },
         {
             "name": "Last Note From Mom",
-            "code": "DLC Code + 04fb95",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fb95",
             "is_dlc": true
         },
         {
             "name": "Letter From Maxwell",
-            "code": "DLC Code + 04b188",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b188",
             "is_dlc": true
         },
         {
             "name": "Letter To Ezra",
-            "code": "DLC Code + 049663",
+            "code": "<span class=\"chip\">DLC Code</span> + 049663",
             "is_dlc": true
         },
         {
             "name": "Love Letter To Bridget",
-            "code": "DLC Code + 00d802",
+            "code": "<span class=\"chip\">DLC Code</span> + 00d802",
             "is_dlc": true
         },
         {
             "name": "Mariner's Goodbye",
-            "code": "DLC Code + 0486c4",
+            "code": "<span class=\"chip\">DLC Code</span> + 0486c4",
             "is_dlc": true
         },
         {
             "name": "Mariner's Will",
-            "code": "DLC Code + 0486c6",
+            "code": "<span class=\"chip\">DLC Code</span> + 0486c6",
             "is_dlc": true
         },
         {
             "name": "Northwood Quarry Notes",
-            "code": "DLC Code + 0427ce xx0427cf",
+            "code": "<span class=\"chip\">DLC Code</span> + 0427ce xx0427cf",
             "is_dlc": true
         },
         {
             "name": "Note",
-            "code": "DLC Code + 04fba0 xx04fba1 xx04fba2 xx04fba3",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fba0 xx04fba1 xx04fba2 xx04fba3",
             "is_dlc": true
         },
         {
             "name": "Note From Atom's Shrine",
-            "code": "DLC Code + 0269c4",
+            "code": "<span class=\"chip\">DLC Code</span> + 0269c4",
             "is_dlc": true
         },
         {
             "name": "Old Letter",
-            "code": "DLC Code + 04fb9b",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fb9b",
             "is_dlc": true
         },
         {
             "name": "Put It From Your Mind",
-            "code": "DLC Code + 054258",
+            "code": "<span class=\"chip\">DLC Code</span> + 054258",
             "is_dlc": true
         },
         {
             "name": "Radioman's Note",
-            "code": "DLC Code + 0541fe xx0541ff",
+            "code": "<span class=\"chip\">DLC Code</span> + 0541fe xx0541ff",
             "is_dlc": true
         },
         {
             "name": "Repairs In Progress",
-            "code": "DLC Code + 05711d",
+            "code": "<span class=\"chip\">DLC Code</span> + 05711d",
             "is_dlc": true
         },
         {
             "name": "Report From Pv",
-            "code": "DLC Code + 04fb99",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fb99",
             "is_dlc": true
         },
         {
             "name": "Request For Detective",
-            "code": "DLC Code + 048a2d",
+            "code": "<span class=\"chip\">DLC Code</span> + 048a2d",
             "is_dlc": true
         },
         {
             "name": "Run!",
-            "code": "DLC Code + 04fb9d",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fb9d",
             "is_dlc": true
         },
         {
             "name": "Scrawled Journal",
-            "code": "DLC Code + 054203",
+            "code": "<span class=\"chip\">DLC Code</span> + 054203",
             "is_dlc": true
         },
         {
             "name": "Scrawled Note",
-            "code": "DLC Code + 0269aa",
+            "code": "<span class=\"chip\">DLC Code</span> + 0269aa",
             "is_dlc": true
         },
         {
             "name": "Sister Gwyneth's Visit",
-            "code": "DLC Code + 037487",
+            "code": "<span class=\"chip\">DLC Code</span> + 037487",
             "is_dlc": true
         },
         {
             "name": "Storage Room Notice",
-            "code": "DLC Code + 038ed8",
+            "code": "<span class=\"chip\">DLC Code</span> + 038ed8",
             "is_dlc": true
         },
         {
             "name": "Taste Test",
-            "code": "DLC Code + 04dfd2",
+            "code": "<span class=\"chip\">DLC Code</span> + 04dfd2",
             "is_dlc": true
         },
         {
             "name": "The Children Trapped",
-            "code": "DLC Code + 02941a",
+            "code": "<span class=\"chip\">DLC Code</span> + 02941a",
             "is_dlc": true
         },
         {
             "name": "The Sacred Elements",
-            "code": "DLC Code + 04e0b4",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e0b4",
             "is_dlc": true
         },
         {
             "name": "These Mannequins!",
-            "code": "DLC Code + 01087e",
+            "code": "<span class=\"chip\">DLC Code</span> + 01087e",
             "is_dlc": true
         },
         {
             "name": "To My \"family\"",
-            "code": "DLC Code + 04b347",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b347",
             "is_dlc": true
         },
         {
             "name": "Torn Flyer Piece",
-            "code": "DLC Code + 01bc7c cut xx01bc85 xx01bc7d cut xx01bc86 xx01bc82 cut xx01bc87 xx01bc87 cut xx01bc88",
+            "code": "<span class=\"chip\">DLC Code</span> + 01bc7c cut xx01bc85 xx01bc7d cut xx01bc86 xx01bc82 cut xx01bc87 xx01bc87 cut xx01bc88",
             "is_dlc": true
         },
         {
             "name": "Trapper's Note",
-            "code": "DLC Code + 054216",
+            "code": "<span class=\"chip\">DLC Code</span> + 054216",
             "is_dlc": true
         },
         {
             "name": "Unfinished Note",
-            "code": "DLC Code + 04dfcd",
+            "code": "<span class=\"chip\">DLC Code</span> + 04dfcd",
             "is_dlc": true
         },
         {
             "name": "Victoria's Note",
-            "code": "DLC Code + 0540a4",
+            "code": "<span class=\"chip\">DLC Code</span> + 0540a4",
             "is_dlc": true
         },
         {
             "name": "Ware's Brew Recipe",
-            "code": "DLC Code + 03e12d",
+            "code": "<span class=\"chip\">DLC Code</span> + 03e12d",
             "is_dlc": true
         },
         {
             "name": "Wind Turbine Code",
-            "code": "DLC Code + 034df6",
+            "code": "<span class=\"chip\">DLC Code</span> + 034df6",
             "is_dlc": true
         },
         {
             "name": "Vault 88 Chemical Research",
-            "code": "DLC Code + 004bc6",
+            "code": "<span class=\"chip\">DLC Code</span> + 004bc6",
             "is_dlc": true
         },
         {
             "name": "Vault-tec Prototypes",
-            "code": "DLC Code + 0053da",
+            "code": "<span class=\"chip\">DLC Code</span> + 0053da",
             "is_dlc": true
         },
         {
             "name": "A.f.a.d. Interrogation",
-            "code": "DLC Code + 0439f6",
+            "code": "<span class=\"chip\">DLC Code</span> + 0439f6",
             "is_dlc": true
         },
         {
             "name": "A.f.a.d. Manifesto",
-            "code": "DLC Code + 0439f5",
+            "code": "<span class=\"chip\">DLC Code</span> + 0439f5",
             "is_dlc": true
         },
         {
             "name": "Buzz's Holotape",
-            "code": "DLC Code + 04a519",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a519",
             "is_dlc": true
         },
         {
             "name": "Caleb's Personal Log",
-            "code": "DLC Code + 04a660",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a660",
             "is_dlc": true
         },
         {
             "name": "Corporal Downey's Report",
-            "code": "DLC Code + 0474cc",
+            "code": "<span class=\"chip\">DLC Code</span> + 0474cc",
             "is_dlc": true
         },
         {
             "name": "Dixie's Souvenir",
-            "code": "DLC Code + 043bc8 xx043bc9 xx043bca",
+            "code": "<span class=\"chip\">DLC Code</span> + 043bc8 xx043bc9 xx043bca",
             "is_dlc": true
         },
         {
             "name": "Dr. Mcdermot's Journals",
-            "code": "DLC Code + 0439f0 xx0439f2 xx0439f3 xx044913",
+            "code": "<span class=\"chip\">DLC Code</span> + 0439f0 xx0439f2 xx0439f3 xx044913",
             "is_dlc": true
         },
         {
             "name": "Dusty's Message",
-            "code": "DLC Code + 0474c7",
+            "code": "<span class=\"chip\">DLC Code</span> + 0474c7",
             "is_dlc": true
         },
         {
             "name": "Emerson's Holotape",
-            "code": "DLC Code + 0474c4",
+            "code": "<span class=\"chip\">DLC Code</span> + 0474c4",
             "is_dlc": true
         },
         {
             "name": "For Deke",
-            "code": "DLC Code + 03f838",
+            "code": "<span class=\"chip\">DLC Code</span> + 03f838",
             "is_dlc": true
         },
         {
             "name": "General Braxton's Visit",
-            "code": "DLC Code + 046905",
+            "code": "<span class=\"chip\">DLC Code</span> + 046905",
             "is_dlc": true
         },
         {
             "name": "Hidden Cappy Contest Hints",
-            "code": "DLC Code + 056a01",
+            "code": "<span class=\"chip\">DLC Code</span> + 056a01",
             "is_dlc": true
         },
         {
             "name": "Ian's Holotape",
-            "code": "DLC Code + 03951f",
+            "code": "<span class=\"chip\">DLC Code</span> + 03951f",
             "is_dlc": true
         },
         {
             "name": "Jesse's Personal Log",
-            "code": "DLC Code + 0474c9",
+            "code": "<span class=\"chip\">DLC Code</span> + 0474c9",
             "is_dlc": true
         },
         {
             "name": "Kristy's Holotape",
-            "code": "DLC Code + 0474ca",
+            "code": "<span class=\"chip\">DLC Code</span> + 0474ca",
             "is_dlc": true
         },
         {
             "name": "Maggy, It's Your Mother",
-            "code": "DLC Code + 0489b6",
+            "code": "<span class=\"chip\">DLC Code</span> + 0489b6",
             "is_dlc": true
         },
         {
             "name": "Maja's Message",
-            "code": "DLC Code + 0474c8",
+            "code": "<span class=\"chip\">DLC Code</span> + 0474c8",
             "is_dlc": true
         },
         {
             "name": "Mark's Log",
-            "code": "DLC Code + 0474c5",
+            "code": "<span class=\"chip\">DLC Code</span> + 0474c5",
             "is_dlc": true
         },
         {
             "name": "Meacham Recordings",
-            "code": "DLC Code + 03f8db xx03f8dc xx03f8dd xx03f8de",
+            "code": "<span class=\"chip\">DLC Code</span> + 03f8db xx03f8dc xx03f8dd xx03f8de",
             "is_dlc": true
         },
         {
             "name": "Mother, It's Mags",
-            "code": "DLC Code + 0489b7",
+            "code": "<span class=\"chip\">DLC Code</span> + 0489b7",
             "is_dlc": true
         },
         {
             "name": "N.i.r.a.'s Holotape",
-            "code": "DLC Code + 04249d",
+            "code": "<span class=\"chip\">DLC Code</span> + 04249d",
             "is_dlc": true
         },
         {
             "name": "Nisha's Holotape",
-            "code": "DLC Code + 04e97e",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e97e",
             "is_dlc": true
         },
         {
             "name": "Nuka-cola Clear",
-            "code": "DLC Code + 046904",
+            "code": "<span class=\"chip\">DLC Code</span> + 046904",
             "is_dlc": true
         },
         {
             "name": "Nuka-cola Recording",
-            "code": "DLC Code + 04a681",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a681",
             "is_dlc": true
         },
         {
             "name": "Nuka-world Paramedic Report",
-            "code": "DLC Code + 04478e",
+            "code": "<span class=\"chip\">DLC Code</span> + 04478e",
             "is_dlc": true
         },
         {
             "name": "Personal Log",
-            "code": "DLC Code + 03951d",
+            "code": "<span class=\"chip\">DLC Code</span> + 03951d",
             "is_dlc": true
         },
         {
             "name": "Persuasion Test Eight",
-            "code": "DLC Code + 0489b5",
+            "code": "<span class=\"chip\">DLC Code</span> + 0489b5",
             "is_dlc": true
         },
         {
             "name": "Project Consumer Guidance",
-            "code": "DLC Code + 0474c6",
+            "code": "<span class=\"chip\">DLC Code</span> + 0474c6",
             "is_dlc": true
         },
         {
             "name": "Rachel's Holotape",
-            "code": "DLC Code + 0417b3",
+            "code": "<span class=\"chip\">DLC Code</span> + 0417b3",
             "is_dlc": true
         },
         {
             "name": "Recon Log",
-            "code": "DLC Code + 03951e",
+            "code": "<span class=\"chip\">DLC Code</span> + 03951e",
             "is_dlc": true
         },
         {
             "name": "Sergeant Lanier's Report",
-            "code": "DLC Code + 0474cb",
+            "code": "<span class=\"chip\">DLC Code</span> + 0474cb",
             "is_dlc": true
         },
         {
             "name": "Stinking Operators",
-            "code": "DLC Code + 04a517",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a517",
             "is_dlc": true
         },
         {
             "name": "The Test",
-            "code": "DLC Code + 01110e",
+            "code": "<span class=\"chip\">DLC Code</span> + 01110e",
             "is_dlc": true
         },
         {
             "name": "Tiana's Log",
-            "code": "DLC Code + 032f4e",
+            "code": "<span class=\"chip\">DLC Code</span> + 032f4e",
             "is_dlc": true
         },
         {
             "name": "You Go Tell Mason",
-            "code": "DLC Code + 04a518",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a518",
             "is_dlc": true
         },
         {
             "name": "Buzz's Note",
-            "code": "DLC Code + 04a51a",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a51a",
             "is_dlc": true
         },
         {
             "name": "Cito's Note",
-            "code": "DLC Code + 04d3d7",
+            "code": "<span class=\"chip\">DLC Code</span> + 04d3d7",
             "is_dlc": true
         },
         {
             "name": "Crag's Plan",
-            "code": "DLC Code + 04434b",
+            "code": "<span class=\"chip\">DLC Code</span> + 04434b",
             "is_dlc": true
         },
         {
             "name": "Disciple Affirmations",
-            "code": "DLC Code + 04e97c",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e97c",
             "is_dlc": true
         },
         {
             "name": "Fury Grenade Recipe",
-            "code": "DLC Code + 026191",
+            "code": "<span class=\"chip\">DLC Code</span> + 026191",
             "is_dlc": true
         },
         {
             "name": "Going To The Roof",
-            "code": "DLC Code + 04f553",
+            "code": "<span class=\"chip\">DLC Code</span> + 04f553",
             "is_dlc": true
         },
         {
             "name": "Good Looking Guy's Note",
-            "code": "DLC Code + 04a51f",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a51f",
             "is_dlc": true
         },
         {
             "name": "H's Note",
-            "code": "DLC Code + 04a51d",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a51d",
             "is_dlc": true
         },
         {
             "name": "Hasty Letter",
-            "code": "DLC Code + 04f54f",
+            "code": "<span class=\"chip\">DLC Code</span> + 04f54f",
             "is_dlc": true
         },
         {
             "name": "Hidden Cappy Clues",
-            "code": "DLC Code + 01556c xx01556d xx01556e xx01556f xx015571 xx015572 xx015573 xx015574 xx015575",
+            "code": "<span class=\"chip\">DLC Code</span> + 01556c xx01556d xx01556e xx01556f xx015571 xx015572 xx015573 xx015574 xx015575",
             "is_dlc": true
         },
         {
             "name": "Hunter's Journal Page",
-            "code": "DLC Code + 042e9f",
+            "code": "<span class=\"chip\">DLC Code</span> + 042e9f",
             "is_dlc": true
         },
         {
             "name": "Kaylor's Orders",
-            "code": "DLC Code + 01a28e",
+            "code": "<span class=\"chip\">DLC Code</span> + 01a28e",
             "is_dlc": true
         },
         {
             "name": "Note About Missing Slaves",
-            "code": "DLC Code + 04a521",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a521",
             "is_dlc": true
         },
         {
             "name": "Nuka-nuke Schematics",
-            "code": "DLC Code + 056cfe",
+            "code": "<span class=\"chip\">DLC Code</span> + 056cfe",
             "is_dlc": true
         },
         {
             "name": "Nuka-world Contest Flyer",
-            "code": "DLC Code + 013a48",
+            "code": "<span class=\"chip\">DLC Code</span> + 013a48",
             "is_dlc": true
         },
         {
             "name": "Ophelia's Unsent Letter",
-            "code": "DLC Code + 039526",
+            "code": "<span class=\"chip\">DLC Code</span> + 039526",
             "is_dlc": true
         },
         {
             "name": "Park Map Pamphlet",
-            "code": "DLC Code + 047f44",
+            "code": "<span class=\"chip\">DLC Code</span> + 047f44",
             "is_dlc": true
         },
         {
             "name": "Persuasion Grenade Recipe",
-            "code": "DLC Code + 025b1b",
+            "code": "<span class=\"chip\">DLC Code</span> + 025b1b",
             "is_dlc": true
         },
         {
             "name": "Pissed Off Guy's Note",
-            "code": "DLC Code + 04a520",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a520",
             "is_dlc": true
         },
         {
             "name": "Predator Grenade Recipe",
-            "code": "DLC Code + 026193",
+            "code": "<span class=\"chip\">DLC Code</span> + 026193",
             "is_dlc": true
         },
         {
             "name": "Project Cobalt Complete",
-            "code": "DLC Code + 050a9f",
+            "code": "<span class=\"chip\">DLC Code</span> + 050a9f",
             "is_dlc": true
         },
         {
             "name": "Project Cobalt Schematics",
-            "code": "DLC Code + 056cf9",
+            "code": "<span class=\"chip\">DLC Code</span> + 056cf9",
             "is_dlc": true
         },
         {
             "name": "Ramblings",
-            "code": "DLC Code + 039527",
+            "code": "<span class=\"chip\">DLC Code</span> + 039527",
             "is_dlc": true
         },
         {
             "name": "Ricky's Note",
-            "code": "DLC Code + 046dd1",
+            "code": "<span class=\"chip\">DLC Code</span> + 046dd1",
             "is_dlc": true
         },
         {
             "name": "Rumor About Missing Slaves",
-            "code": "DLC Code + 04a522",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a522",
             "is_dlc": true
         },
         {
             "name": "Safe Combination",
-            "code": "DLC Code + 04693d xx04693e xx04693f",
+            "code": "<span class=\"chip\">DLC Code</span> + 04693d xx04693e xx04693f",
             "is_dlc": true
         },
         {
             "name": "Sam's Note",
-            "code": "DLC Code + 046dd3",
+            "code": "<span class=\"chip\">DLC Code</span> + 046dd3",
             "is_dlc": true
         },
         {
             "name": "Shorty's Note",
-            "code": "DLC Code + 04a51e",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a51e",
             "is_dlc": true
         },
         {
             "name": "Smooth Operator Recipe",
-            "code": "DLC Code + 026b12",
+            "code": "<span class=\"chip\">DLC Code</span> + 026b12",
             "is_dlc": true
         },
         {
             "name": "Sykes' Old Letter",
-            "code": "DLC Code + 039525",
+            "code": "<span class=\"chip\">DLC Code</span> + 039525",
             "is_dlc": true
         },
         {
             "name": "Terry's Note",
-            "code": "DLC Code + 046dcf",
+            "code": "<span class=\"chip\">DLC Code</span> + 046dcf",
             "is_dlc": true
         },
         {
             "name": "The Radicorn",
-            "code": "DLC Code + 04e97b",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e97b",
             "is_dlc": true
         },
         {
             "name": "They Hit Boston",
-            "code": "DLC Code + 04f554",
+            "code": "<span class=\"chip\">DLC Code</span> + 04f554",
             "is_dlc": true
         },
         {
             "name": "Traitor's Note",
-            "code": "DLC Code + 04aa33 xx04aa34 xx04aa35",
+            "code": "<span class=\"chip\">DLC Code</span> + 04aa33 xx04aa34 xx04aa35",
             "is_dlc": true
         },
         {
             "name": "V's Note",
-            "code": "DLC Code + 04a51c",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a51c",
             "is_dlc": true
         },
         {
@@ -10390,347 +10390,347 @@
         },
         {
             "name": "Forfeiture Terminal Password Dlc01_lair_forfeiturepassword)",
-            "code": "DLC Code + 00feac",
+            "code": "<span class=\"chip\">DLC Code</span> + 00feac",
             "is_dlc": true
         },
         {
             "name": "Medical Terminal Password Dlc01_lair_robomedpassword)",
-            "code": "DLC Code + 00d5e0",
+            "code": "<span class=\"chip\">DLC Code</span> + 00d5e0",
             "is_dlc": true
         },
         {
             "name": "Rb-2851 Master Control Password Dlc01laircc_mastercontrolpassword)",
-            "code": "DLC Code + 001d29",
+            "code": "<span class=\"chip\">DLC Code</span> + 001d29",
             "is_dlc": true
         },
         {
             "name": "Robco Sales & Service Center Key Dlc01lair_robcosalesandservicekey)",
-            "code": "DLC Code + 008b66",
+            "code": "<span class=\"chip\">DLC Code</span> + 008b66",
             "is_dlc": true
         },
         {
             "name": "Acadia Storage Key (dlc03mq03storagekey)",
-            "code": "DLC Code + 038ed7",
+            "code": "<span class=\"chip\">DLC Code</span> + 038ed7",
             "is_dlc": true
         },
         {
             "name": "Aldersea Day Spa Key (adv007_spakenavy)",
-            "code": "DLC Code + 039de7",
+            "code": "<span class=\"chip\">DLC Code</span> + 039de7",
             "is_dlc": true
         },
         {
             "name": "Boathouse Safe Key (dlc03mq01safekey)",
-            "code": "DLC Code + 017e83",
+            "code": "<span class=\"chip\">DLC Code</span> + 017e83",
             "is_dlc": true
         },
         {
             "name": "Ceo's Master Password (dlc03mq05securityterminalpassword)",
-            "code": "DLC Code + 038d90",
+            "code": "<span class=\"chip\">DLC Code</span> + 038d90",
             "is_dlc": true
         },
         {
             "name": "Cranberry Island Shed Key (dlc03poi04_dockshedkey)",
-            "code": "DLC Code + 04d20a",
+            "code": "<span class=\"chip\">DLC Code</span> + 04d20a",
             "is_dlc": true
         },
         {
             "name": "Douglas's Key (dlc03_adv004_emmettskey)",
-            "code": "DLC Code + 04fd13",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fd13",
             "is_dlc": true
         },
         {
             "name": "Faraday's Program (dlc03mq03memoryprogram)",
-            "code": "DLC Code + 029591",
+            "code": "<span class=\"chip\">DLC Code</span> + 029591",
             "is_dlc": true
         },
         {
             "name": "Faraday's Terminal Password (dlc03faradayterminalpassword)",
-            "code": "DLC Code + 008b28",
+            "code": "<span class=\"chip\">DLC Code</span> + 008b28",
             "is_dlc": true
         },
         {
             "name": "Footlocker Key (dlc03coa_ffnucleus02_key)",
-            "code": "DLC Code + 02c903",
+            "code": "<span class=\"chip\">DLC Code</span> + 02c903",
             "is_dlc": true
         },
         {
             "name": "Fringe Cove Dock Key (adv020warehousekey)",
-            "code": "DLC Code + 011807",
+            "code": "<span class=\"chip\">DLC Code</span> + 011807",
             "is_dlc": true
         },
         {
             "name": "Jule's Key (dlc03m04julekey)",
-            "code": "DLC Code + 050047",
+            "code": "<span class=\"chip\">DLC Code</span> + 050047",
             "is_dlc": true
         },
         {
             "name": "Manager's Key (adv002_safekey)",
-            "code": "DLC Code + 020d1a",
+            "code": "<span class=\"chip\">DLC Code</span> + 020d1a",
             "is_dlc": true
         },
         {
             "name": "Navy Base Terminal Password (dlc03mq03terminalpassword)",
-            "code": "DLC Code + 027b2e",
+            "code": "<span class=\"chip\">DLC Code</span> + 027b2e",
             "is_dlc": true
         },
         {
             "name": "Nuclear Launch Key (dlc03mq06_nukelaunchkey)",
-            "code": "DLC Code + 015363",
+            "code": "<span class=\"chip\">DLC Code</span> + 015363",
             "is_dlc": true
         },
         {
             "name": "Ship's Safe Combination (dlc03m06_safecombination)",
-            "code": "DLC Code + 032c55",
+            "code": "<span class=\"chip\">DLC Code</span> + 032c55",
             "is_dlc": true
         },
         {
             "name": "Shrine Password (dlc03atomm01_shrinepassword)",
-            "code": "DLC Code + 00f291",
+            "code": "<span class=\"chip\">DLC Code</span> + 00f291",
             "is_dlc": true
         },
         {
             "name": "Tannery Key (adv003_key)",
-            "code": "DLC Code + 013f7c",
+            "code": "<span class=\"chip\">DLC Code</span> + 013f7c",
             "is_dlc": true
         },
         {
             "name": "Trailer Key (dlc03poi055key)",
-            "code": "DLC Code + 042607",
+            "code": "<span class=\"chip\">DLC Code</span> + 042607",
             "is_dlc": true
         },
         {
             "name": "Vault 118 Keycard, #1 (dlc03_v118_keycard_gilda Keith)",
-            "code": "DLC Code + 048a4b",
+            "code": "<span class=\"chip\">DLC Code</span> + 048a4b",
             "is_dlc": true
         },
         {
             "name": "Vault 118 Keycard, #2 (dlc03_v118_keycard_ezra)",
-            "code": "DLC Code + 048a4a",
+            "code": "<span class=\"chip\">DLC Code</span> + 048a4a",
             "is_dlc": true
         },
         {
             "name": "Vault 118 Keycard, #3 (dlc03_v118_keycard_player)",
-            "code": "DLC Code + 048a49",
+            "code": "<span class=\"chip\">DLC Code</span> + 048a49",
             "is_dlc": true
         },
         {
             "name": "Vault 118 Keycard, #4 (dlc03_v118_keycard_santiago)",
-            "code": "DLC Code + 048a4d",
+            "code": "<span class=\"chip\">DLC Code</span> + 048a4d",
             "is_dlc": true
         },
         {
             "name": "Vault 118 Keycard, #5 (dlc03_v118_keycard_julianna)",
-            "code": "DLC Code + 048a4c",
+            "code": "<span class=\"chip\">DLC Code</span> + 048a4c",
             "is_dlc": true
         },
         {
             "name": "Vault 118 Keycard, #6 (dlc03_v118_keycard_spencer)",
-            "code": "DLC Code + 048a4e",
+            "code": "<span class=\"chip\">DLC Code</span> + 048a4e",
             "is_dlc": true
         },
         {
             "name": "Vault 118 Key (dlc03v118_key)",
-            "code": "DLC Code + 04b1b4",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b1b4",
             "is_dlc": true
         },
         {
             "name": "Vault 118 Overseer's Key (dlc03v118_keyoverseer)",
-            "code": "DLC Code + 04e710",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e710",
             "is_dlc": true
         },
         {
             "name": "Victoria's Key (dlc03acadia_m04key)",
-            "code": "DLC Code + 04fa99",
+            "code": "<span class=\"chip\">DLC Code</span> + 04fa99",
             "is_dlc": true
         },
         {
             "name": "Vim Ceo Password (dlc03_adv08_vimceopassword)",
-            "code": "DLC Code + 05441b",
+            "code": "<span class=\"chip\">DLC Code</span> + 05441b",
             "is_dlc": true
         },
         {
             "name": "Worn Key (pump Control) (dlc03mq06a_martinsrefugekey)",
-            "code": "DLC Code + 037489",
+            "code": "<span class=\"chip\">DLC Code</span> + 037489",
             "is_dlc": true
         },
         {
             "name": "Afad Key Dlc04safariheinjailkey",
-            "code": "DLC Code + 03b9d4",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b9d4",
             "is_dlc": true
         },
         {
             "name": "Bradberton's Safe Key Bradberton's Safe Key",
-            "code": "DLC Code + 046908",
+            "code": "<span class=\"chip\">DLC Code</span> + 046908",
             "is_dlc": true
         },
         {
             "name": "Casey's Password Dlc04bottlingplantpassword",
-            "code": "DLC Code + 04f556",
+            "code": "<span class=\"chip\">DLC Code</span> + 04f556",
             "is_dlc": true
         },
         {
             "name": "Cito's Key Dlc04safaricitokey",
-            "code": "DLC Code + 03b9cd",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b9cd",
             "is_dlc": true
         },
         {
             "name": "Clark's Stash Key Dlc04clarkstashkey",
-            "code": "DLC Code + 03f836",
+            "code": "<span class=\"chip\">DLC Code</span> + 03f836",
             "is_dlc": true
         },
         {
             "name": "Control Terminal Password Dlc04mq00controlterminalpassword",
-            "code": "DLC Code + 015aa5",
+            "code": "<span class=\"chip\">DLC Code</span> + 015aa5",
             "is_dlc": true
         },
         {
             "name": "Dirty Key Dlc04gauntlet_fakekey02",
-            "code": "DLC Code + 02dbee",
+            "code": "<span class=\"chip\">DLC Code</span> + 02dbee",
             "is_dlc": true
         },
         {
             "name": "Dr. Hein's Passcode Dlc04safaridrheinpasscode",
-            "code": "DLC Code + 03b9d6",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b9d6",
             "is_dlc": true
         },
         {
             "name": "Dr. Mcdermot's Passcode Dlc04safaridrmcdermotpasscode",
-            "code": "DLC Code + 03b9e0",
+            "code": "<span class=\"chip\">DLC Code</span> + 03b9e0",
             "is_dlc": true
         },
         {
             "name": "Dry Rock Gulch Safe Combination Dlc04_drg_safecombination",
-            "code": "DLC Code + 046cf6",
+            "code": "<span class=\"chip\">DLC Code</span> + 046cf6",
             "is_dlc": true
         },
         {
             "name": "Dry Rock Gulch Theater Key Dlc04_ww_theaterkey",
-            "code": "DLC Code + 047e0f",
+            "code": "<span class=\"chip\">DLC Code</span> + 047e0f",
             "is_dlc": true
         },
         {
             "name": "Dunmore Safe Key Dlc04poisc07_dunmorekey",
-            "code": "DLC Code + 042b5d",
+            "code": "<span class=\"chip\">DLC Code</span> + 042b5d",
             "is_dlc": true
         },
         {
             "name": "Galactic Zone Manager's Key Dlc04gzstarportnukamanagerskey",
-            "code": "DLC Code + 0327a3",
+            "code": "<span class=\"chip\">DLC Code</span> + 0327a3",
             "is_dlc": true
         },
         {
             "name": "Grandchester Guest Key Dlc04_grandchester_frontdoorkey",
-            "code": "DLC Code + 020a38",
+            "code": "<span class=\"chip\">DLC Code</span> + 020a38",
             "is_dlc": true
         },
         {
             "name": "Grandchester Mansion Key Dlc04_grandchester_insidekey",
-            "code": "DLC Code + 01616f",
+            "code": "<span class=\"chip\">DLC Code</span> + 01616f",
             "is_dlc": true
         },
         {
             "name": "Kiddie Kingdom Roof Key Dlc04_kk_roofkey",
-            "code": "DLC Code + 04a08d",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a08d",
             "is_dlc": true
         },
         {
             "name": "Kiddie Kingdom Tunnels Key Dlc04_kk_tunnelskey",
-            "code": "DLC Code + 03e4fa",
+            "code": "<span class=\"chip\">DLC Code</span> + 03e4fa",
             "is_dlc": true
         },
         {
             "name": "Mad Mulligan's Employee Key Dlc04_drg_mineutilitykey",
-            "code": "DLC Code + 04bacd",
+            "code": "<span class=\"chip\">DLC Code</span> + 04bacd",
             "is_dlc": true
         },
         {
             "name": "Mad Mulligan's Mine Key Dlc04_drg_minekey",
-            "code": "DLC Code + 0431b0",
+            "code": "<span class=\"chip\">DLC Code</span> + 0431b0",
             "is_dlc": true
         },
         {
             "name": "Nuka-galaxy Employee Key Dlc04gznukagalaxy_employeekey",
-            "code": "DLC Code + 038944",
+            "code": "<span class=\"chip\">DLC Code</span> + 038944",
             "is_dlc": true
         },
         {
             "name": "Nuka-world Storage Room Key Dlc04gauntlet_storagekey",
-            "code": "DLC Code + 03db4e",
+            "code": "<span class=\"chip\">DLC Code</span> + 03db4e",
             "is_dlc": true
         },
         {
             "name": "Nuka-world Utility Substation Key Dlc04gauntlet_utilitykey",
-            "code": "DLC Code + 02dee8",
+            "code": "<span class=\"chip\">DLC Code</span> + 02dee8",
             "is_dlc": true
         },
         {
             "name": "Oswald's Password Dlc04_kk_oswaldpassword",
-            "code": "DLC Code + 04a096",
+            "code": "<span class=\"chip\">DLC Code</span> + 04a096",
             "is_dlc": true
         },
         {
             "name": "Overboss' Key Dlc04raideroverbosskey",
-            "code": "DLC Code + 00a50e",
+            "code": "<span class=\"chip\">DLC Code</span> + 00a50e",
             "is_dlc": true
         },
         {
             "name": "Overboss' Password Dlc04raideroverbosspassword",
-            "code": "DLC Code + 00a50f",
+            "code": "<span class=\"chip\">DLC Code</span> + 00a50f",
             "is_dlc": true
         },
         {
             "name": "Parlor Dressing Room Key Dlc04_magswilliamblackroomkey",
-            "code": "DLC Code + 04894d",
+            "code": "<span class=\"chip\">DLC Code</span> + 04894d",
             "is_dlc": true
         },
         {
             "name": "Plant Control Room Key Dlc04mq05powerplantcontrolroomkey",
-            "code": "DLC Code + 03c5a9",
+            "code": "<span class=\"chip\">DLC Code</span> + 03c5a9",
             "is_dlc": true
         },
         {
             "name": "Robco Battlezone Key Dlc04gzbattlezone_key",
-            "code": "DLC Code + 04b1cc",
+            "code": "<span class=\"chip\">DLC Code</span> + 04b1cc",
             "is_dlc": true
         },
         {
             "name": "Rusty Key Dlc04gauntlet_walkwaykey",
-            "code": "DLC Code + 02dbef",
+            "code": "<span class=\"chip\">DLC Code</span> + 02dbef",
             "is_dlc": true
         },
         {
             "name": "Scratched Key Dlc04gauntlet_fakekey01",
-            "code": "DLC Code + 02dbed",
+            "code": "<span class=\"chip\">DLC Code</span> + 02dbed",
             "is_dlc": true
         },
         {
             "name": "Starlight Theater Pantry Key Dlc04gztheater_pantrykey",
-            "code": "DLC Code + 0294a9",
+            "code": "<span class=\"chip\">DLC Code</span> + 0294a9",
             "is_dlc": true
         },
         {
             "name": "Terminal Password Dlc04_wwterminalpassword",
-            "code": "DLC Code + 03ba46",
+            "code": "<span class=\"chip\">DLC Code</span> + 03ba46",
             "is_dlc": true
         },
         {
             "name": "Utility Substation Password Dlc04gauntlet_utilitypassword",
-            "code": "DLC Code + 02deea",
+            "code": "<span class=\"chip\">DLC Code</span> + 02deea",
             "is_dlc": true
         },
         {
             "name": "Vault-tec Control Room Key Dlc04gzvaulttec_controlroomkey",
-            "code": "DLC Code + 0294a0",
+            "code": "<span class=\"chip\">DLC Code</span> + 0294a0",
             "is_dlc": true
         },
         {
             "name": "Vault-tec Employee Key Dlc04gzvaulttec_employeekey",
-            "code": "DLC Code + 0294a2",
+            "code": "<span class=\"chip\">DLC Code</span> + 0294a2",
             "is_dlc": true
         },
         {
             "name": "Vault-tec Observation Lab Key Dlc04gzvaulttec_observationlabkey",
-            "code": "DLC Code + 0294a1",
+            "code": "<span class=\"chip\">DLC Code</span> + 0294a1",
             "is_dlc": true
         },
         {
@@ -11047,22 +11047,22 @@
         },
         {
             "name": "Burnt Technical Manual",
-            "code": "DLC Code + 00841f",
+            "code": "<span class=\"chip\">DLC Code</span> + 00841f",
             "is_dlc": true
         },
         {
             "name": "Eyebot Pod Schematics",
-            "code": "DLC Code + 0109bc",
+            "code": "<span class=\"chip\">DLC Code</span> + 0109bc",
             "is_dlc": true
         },
         {
             "name": "Jezebel's Head",
-            "code": "DLC Code + 008ad4",
+            "code": "<span class=\"chip\">DLC Code</span> + 008ad4",
             "is_dlc": true
         },
         {
             "name": "Radar Beacon",
-            "code": "DLC Code + 000883",
+            "code": "<span class=\"chip\">DLC Code</span> + 000883",
             "is_dlc": true
         },
         {
@@ -11072,112 +11072,112 @@
         },
         {
             "name": "Spotlight Schematics",
-            "code": "DLC Code + 0109bb",
+            "code": "<span class=\"chip\">DLC Code</span> + 0109bb",
             "is_dlc": true
         },
         {
             "name": "Avery's Locket",
-            "code": "DLC Code + 01c702",
+            "code": "<span class=\"chip\">DLC Code</span> + 01c702",
             "is_dlc": true
         },
         {
             "name": "Avery's Skull",
-            "code": "DLC Code + 01c704",
+            "code": "<span class=\"chip\">DLC Code</span> + 01c704",
             "is_dlc": true
         },
         {
             "name": "Banner Piece",
-            "code": "DLC Code + 026e30 xx026e31 xx026e33 xx026e2f",
+            "code": "<span class=\"chip\">DLC Code</span> + 026e30 xx026e31 xx026e33 xx026e2f",
             "is_dlc": true
         },
         {
             "name": "Campground Banner",
-            "code": "DLC Code + 026e38",
+            "code": "<span class=\"chip\">DLC Code</span> + 026e38",
             "is_dlc": true
         },
         {
             "name": "Data",
-            "code": "DLC Code + 01e3f7",
+            "code": "<span class=\"chip\">DLC Code</span> + 01e3f7",
             "is_dlc": true
         },
         {
             "name": "Fog Condenser Component",
-            "code": "DLC Code + 0463b7",
+            "code": "<span class=\"chip\">DLC Code</span> + 0463b7",
             "is_dlc": true
         },
         {
             "name": "Industrial-grade Fuse",
-            "code": "DLC Code + 034dfb",
+            "code": "<span class=\"chip\">DLC Code</span> + 034dfb",
             "is_dlc": true
         },
         {
             "name": "Mirelurk Carapace",
-            "code": "DLC Code + 020569",
+            "code": "<span class=\"chip\">DLC Code</span> + 020569",
             "is_dlc": true
         },
         {
             "name": "Missing Synth's Head",
-            "code": "DLC Code + 0180d8",
+            "code": "<span class=\"chip\">DLC Code</span> + 0180d8",
             "is_dlc": true
         },
         {
             "name": "Mother Icon",
-            "code": "DLC Code + 00aff6",
+            "code": "<span class=\"chip\">DLC Code</span> + 00aff6",
             "is_dlc": true
         },
         {
             "name": "Power Tools",
-            "code": "DLC Code + 00aaf6",
+            "code": "<span class=\"chip\">DLC Code</span> + 00aaf6",
             "is_dlc": true
         },
         {
             "name": "Pump Regulator",
-            "code": "DLC Code + 02b5d9",
+            "code": "<span class=\"chip\">DLC Code</span> + 02b5d9",
             "is_dlc": true
         },
         {
             "name": "Storage Drive",
-            "code": "DLC Code + 04e1cf",
+            "code": "<span class=\"chip\">DLC Code</span> + 04e1cf",
             "is_dlc": true
         },
         {
             "name": "Vault 118 Jumpsuit",
-            "code": "DLC Code + 043b0a",
+            "code": "<span class=\"chip\">DLC Code</span> + 043b0a",
             "is_dlc": true
         },
         {
             "name": "Atomic Roller Ball",
-            "code": "DLC Code + 019987",
+            "code": "<span class=\"chip\">DLC Code</span> + 019987",
             "is_dlc": true
         },
         {
             "name": "Drink Orders",
-            "code": "DLC Code + 043b93",
+            "code": "<span class=\"chip\">DLC Code</span> + 043b93",
             "is_dlc": true
         },
         {
             "name": "Grandchester Mansion Ticket",
-            "code": "DLC Code + 022dc0",
+            "code": "<span class=\"chip\">DLC Code</span> + 022dc0",
             "is_dlc": true
         },
         {
             "name": "Nuka-cade Ticket",
-            "code": "DLC Code + 019988",
+            "code": "<span class=\"chip\">DLC Code</span> + 019988",
             "is_dlc": true
         },
         {
             "name": "Nuka-cade Token",
-            "code": "DLC Code + 01998a",
+            "code": "<span class=\"chip\">DLC Code</span> + 01998a",
             "is_dlc": true
         },
         {
             "name": "Nuka-cola Formula",
-            "code": "DLC Code + 04f646",
+            "code": "<span class=\"chip\">DLC Code</span> + 04f646",
             "is_dlc": true
         },
         {
             "name": "Nuka-cola Lunchbox",
-            "code": "DLC Code + 043a96",
+            "code": "<span class=\"chip\">DLC Code</span> + 043a96",
             "is_dlc": true
         },
         {
@@ -11187,12 +11187,12 @@
         },
         {
             "name": "Power Distributor",
-            "code": "DLC Code + 044f09",
+            "code": "<span class=\"chip\">DLC Code</span> + 044f09",
             "is_dlc": true
         },
         {
             "name": "Star Core",
-            "code": "DLC Code + 01e367",
+            "code": "<span class=\"chip\">DLC Code</span> + 01e367",
             "is_dlc": true
         }
     ],
@@ -13774,192 +13774,192 @@
         },
         {
             "name": "Black Ice",
-            "code": "DLC Code + 0035c5",
+            "code": "<span class=\"chip\">DLC Code</span> + 0035c5",
             "is_dlc": true
         },
         {
             "name": "Cat Remains",
-            "code": "DLC Code + 045e97 xx045e99 xx045e9b xx045e9d xx045ea6 xx045ea8 xx045eaa",
+            "code": "<span class=\"chip\">DLC Code</span> + 045e97 xx045e99 xx045e9b xx045e9d xx045ea6 xx045ea8 xx045eaa",
             "is_dlc": true
         },
         {
             "name": "Code",
-            "code": "DLC Code + 0035c4",
+            "code": "<span class=\"chip\">DLC Code</span> + 0035c4",
             "is_dlc": true
         },
         {
             "name": "Coffee Cup",
-            "code": "DLC Code + 010135",
+            "code": "<span class=\"chip\">DLC Code</span> + 010135",
             "is_dlc": true
         },
         {
             "name": "Condensed Fog",
-            "code": "DLC Code + 03a2d1",
+            "code": "<span class=\"chip\">DLC Code</span> + 03a2d1",
             "is_dlc": true
         },
         {
             "name": "Condenser Power Module",
-            "code": "DLC Code + 023b23",
+            "code": "<span class=\"chip\">DLC Code</span> + 023b23",
             "is_dlc": true
         },
         {
             "name": "Drinking Glass",
-            "code": "DLC Code + 01012d",
+            "code": "<span class=\"chip\">DLC Code</span> + 01012d",
             "is_dlc": true
         },
         {
             "name": "Garden Gnome",
-            "code": "DLC Code + 019e16 xx019e17 xx019e18",
+            "code": "<span class=\"chip\">DLC Code</span> + 019e16 xx019e17 xx019e18",
             "is_dlc": true
         },
         {
             "name": "Hide Bundle",
-            "code": "DLC Code + 040df0",
+            "code": "<span class=\"chip\">DLC Code</span> + 040df0",
             "is_dlc": true
         },
         {
             "name": "Jug",
-            "code": "DLC Code + 03a2d4",
+            "code": "<span class=\"chip\">DLC Code</span> + 03a2d4",
             "is_dlc": true
         },
         {
             "name": "Lumberjack Saw",
-            "code": "DLC Code + 0365ee",
+            "code": "<span class=\"chip\">DLC Code</span> + 0365ee",
             "is_dlc": true
         },
         {
             "name": "Modified Bowling Ball Schematic",
-            "code": "DLC Code + 03171b",
+            "code": "<span class=\"chip\">DLC Code</span> + 03171b",
             "is_dlc": true
         },
         {
             "name": "Plastic Bowl",
-            "code": "DLC Code + 010129",
+            "code": "<span class=\"chip\">DLC Code</span> + 010129",
             "is_dlc": true
         },
         {
             "name": "Plastic Plate",
-            "code": "DLC Code + 010130",
+            "code": "<span class=\"chip\">DLC Code</span> + 010130",
             "is_dlc": true
         },
         {
             "name": "Plastic Skull",
-            "code": "DLC Code + 045cf7",
+            "code": "<span class=\"chip\">DLC Code</span> + 045cf7",
             "is_dlc": true
         },
         {
             "name": "Plastic Upper Skull",
-            "code": "DLC Code + 045cf8",
+            "code": "<span class=\"chip\">DLC Code</span> + 045cf8",
             "is_dlc": true
         },
         {
             "name": "Red Paint Can",
-            "code": "DLC Code + 044bdb",
+            "code": "<span class=\"chip\">DLC Code</span> + 044bdb",
             "is_dlc": true
         },
         {
             "name": "Typewriter",
-            "code": "DLC Code + 001be5",
+            "code": "<span class=\"chip\">DLC Code</span> + 001be5",
             "is_dlc": true
         },
         {
             "name": "Burger Tray",
-            "code": "DLC Code + 02a188",
+            "code": "<span class=\"chip\">DLC Code</span> + 02a188",
             "is_dlc": true
         },
         {
             "name": "Gatorclaw Hand",
-            "code": "DLC Code + 04aa19",
+            "code": "<span class=\"chip\">DLC Code</span> + 04aa19",
             "is_dlc": true
         },
         {
             "name": "Gatorclaw Hide",
-            "code": "DLC Code + 04aa16",
+            "code": "<span class=\"chip\">DLC Code</span> + 04aa16",
             "is_dlc": true
         },
         {
             "name": "Hot Dog Tray",
-            "code": "DLC Code + 02a189",
+            "code": "<span class=\"chip\">DLC Code</span> + 02a189",
             "is_dlc": true
         },
         {
             "name": "Nuka-cola Cup",
-            "code": "DLC Code + 02a186",
+            "code": "<span class=\"chip\">DLC Code</span> + 02a186",
             "is_dlc": true
         },
         {
             "name": "Nuka-cola Cup And Straw",
-            "code": "DLC Code + 02b60c",
+            "code": "<span class=\"chip\">DLC Code</span> + 02b60c",
             "is_dlc": true
         },
         {
             "name": "Nuka-cola Cup Pack",
-            "code": "DLC Code + 02b60f",
+            "code": "<span class=\"chip\">DLC Code</span> + 02b60f",
             "is_dlc": true
         },
         {
             "name": "Pizza Tray",
-            "code": "DLC Code + 02a187",
+            "code": "<span class=\"chip\">DLC Code</span> + 02a187",
             "is_dlc": true
         },
         {
             "name": "Souvenir Coffee Cup",
-            "code": "DLC Code + 02689d",
+            "code": "<span class=\"chip\">DLC Code</span> + 02689d",
             "is_dlc": true
         },
         {
             "name": "Souvenir Drinking Glass",
-            "code": "DLC Code + 02689e",
+            "code": "<span class=\"chip\">DLC Code</span> + 02689e",
             "is_dlc": true
         },
         {
             "name": "Souvenir Magnet Badge",
-            "code": "DLC Code + 02a181",
+            "code": "<span class=\"chip\">DLC Code</span> + 02a181",
             "is_dlc": true
         },
         {
             "name": "Souvenir Magnet Cat",
-            "code": "DLC Code + 02a184",
+            "code": "<span class=\"chip\">DLC Code</span> + 02a184",
             "is_dlc": true
         },
         {
             "name": "Souvenir Magnet Cow",
-            "code": "DLC Code + 0268a1",
+            "code": "<span class=\"chip\">DLC Code</span> + 0268a1",
             "is_dlc": true
         },
         {
             "name": "Souvenir Magnet Flower",
-            "code": "DLC Code + 02a182",
+            "code": "<span class=\"chip\">DLC Code</span> + 02a182",
             "is_dlc": true
         },
         {
             "name": "Souvenir Magnet Frog",
-            "code": "DLC Code + 02a183",
+            "code": "<span class=\"chip\">DLC Code</span> + 02a183",
             "is_dlc": true
         },
         {
             "name": "Souvenir Plastic Bowl",
-            "code": "DLC Code + 0268a0",
+            "code": "<span class=\"chip\">DLC Code</span> + 0268a0",
             "is_dlc": true
         },
         {
             "name": "Souvenir Plate",
-            "code": "DLC Code + 02689f",
+            "code": "<span class=\"chip\">DLC Code</span> + 02689f",
             "is_dlc": true
         },
         {
             "name": "Souvenir Sloth Toy",
-            "code": "DLC Code + 02a185",
+            "code": "<span class=\"chip\">DLC Code</span> + 02a185",
             "is_dlc": true
         },
         {
             "name": "Souvenir Teddy Bear",
-            "code": "DLC Code + 02a180",
+            "code": "<span class=\"chip\">DLC Code</span> + 02a180",
             "is_dlc": true
         },
         {
             "name": "Souvenir Toy Car",
-            "code": "DLC Code + 02bfef",
+            "code": "<span class=\"chip\">DLC Code</span> + 02bfef",
             "is_dlc": true
         }
     ]

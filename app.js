@@ -25,16 +25,17 @@ function startTime() {
     
         return i;
     }
+
+    const date = new Date();
+    $("#date").html(`${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`)
 }
 
 /**
  * Gives the entire list of codes with the names to them
  */
-function app() {
+function json_list() {
     $.getJSON('./app.json', function(json) {
-        let result = [];
-        $('.filters-wrap input[type="checkbox"]').on("click", function () {    
-            var dlc = $("#filter__dlc").is(":checked")
+        $('.filters-wrap').on("click", function () {    
             var ammo = $("#filter__ammo").is(":checked")
             var material = $("#filter__material").is(":checked")
             var armor = $("#filter__armor").is(":checked")
@@ -48,10 +49,32 @@ function app() {
             var misc = $("#filter__misc").is(":checked")
             var junk = $("#filter__junk").is(":checked")
 
-            //result = result.concat()
+            var result = []; // input
+            result = result.concat(
+                ammo ? result.concat(json.ammunition) : undefined,
+                material ? result.concat(json.material) : undefined,
+                armor ? result.concat(json.armor) : undefined,
+                cloth ? result.concat(json.clothing) : undefined,
+                weapon ? result.concat(json.weapon) : undefined,
+                mod ? result.concat(json.modification) : undefined,
+                bobble ? result.concat(json.bobblehead) : undefined,
+                food ? result.concat(json.consumable) : undefined,
+                notes_holos ? result.concat(json.note_and_holo) : undefined,
+                key ? result.concat(json.key) : undefined,
+                misc ? result.concat(json.miscellaneous) : undefined,
+                junk ? result.concat(json.junk) : undefined
+            )
 
-            $("#list-response").html("")
+            $("#list-response").html(`
+                <tr class="header">
+                    <th>Name</th>
+                    <th>Code/ID</th>
+                </tr>
+            `)
             $.each(result, function(key, value) {
+                if (value == undefined)
+                    return
+    
                 $("#list-response").append(`
                     <tr>
                         <td>
@@ -63,11 +86,21 @@ function app() {
                     </tr>
                 `)
             })
-        })
-    })
 
-    $("#search").on("keyup", function () {
-        let search = $("#search").val().replace(/ /g, '').toLowerCase()
+            model(); // model support
+        })
+
+        // show before hand
+        $('.filters-wrap').trigger("click")
+    })
+}
+
+/**
+ * Hides results that dont match the search value
+ */
+function search() {
+    $("#actions_search .search").on("keyup", function () {
+        let search = $("#actions_search .search").val().replace(/ /g, '').toLowerCase()
         $.each($("#list-response tr:not(tr:nth-child(1))"), function () {
             let result = $(this)
                             .first() // get first collection
@@ -86,5 +119,31 @@ function app() {
     })
 }
 
-app();
-startTime();
+/**
+ * Model Handler
+ */
+function model() {
+    $(".chip").on("click", function () {
+        $(".overlay").show()
+        $(".overlay #dlc-info").show()
+    })
+
+    $("#creds").on("click", function () {
+        $(".overlay").show()
+        $(".overlay #creds-info").show()
+    })
+
+    // close
+    $(window).click(function (env) {
+        if (env.target.id == "overlays") {
+            $(".overlay").hide()
+            $(".overlay .model").hide()
+        }
+    })
+}
+
+$(document).ready(function () {
+    search();
+    json_list();
+    startTime();
+})
