@@ -13962,5 +13962,633 @@
             "code": "<span class=\"chip\">DLC Code</span> + 02bfef",
             "is_dlc": true
         }
+    ],
+    "char_and_vars": [
+        {
+            "name": "Strength",
+            "code": "000002c2",
+            "is_dlc": false
+        },
+        {
+            "name": "Perception",
+            "code": "000002c3",
+            "is_dlc": false
+        },
+        {
+            "name": "Endurance",
+            "code": "000002c4",
+            "is_dlc": false
+        },
+        {
+            "name": "Charisma",
+            "code": "000002c5",
+            "is_dlc": false
+        },
+        {
+            "name": "Intelligence",
+            "code": "000002c6",
+            "is_dlc": false
+        },
+        {
+            "name": "Agility",
+            "code": "000002c7",
+            "is_dlc": false
+        },
+        {
+            "name": "Luck",
+            "code": "000002c8",
+            "is_dlc": false
+        },
+        {
+            "name": "Experience",
+            "code": "000002c9",
+            "is_dlc": false
+        },
+        {
+            "name": "Health",
+            "code": "000002d4",
+            "is_dlc": false
+        },
+        {
+            "name": "CarryWeight",
+            "code": "000002dc",
+            "is_dlc": false
+        },
+        {
+            "name": "SpeedMult",
+            "code": "000002da",
+            "is_dlc": false
+        },
+        {
+            "name": "ActionPoints",
+            "code": "000002d5",
+            "is_dlc": false
+        },
+        {
+            "name": "HealRate",
+            "code": "000002d7",
+            "is_dlc": false
+        },
+        {
+            "name": "ActionPointsRate",
+            "code": "000002d8",
+            "is_dlc": false
+        },
+        {
+            "name": "Agression",
+            "code": "000002bc",
+            "is_dlc": false
+        },
+        {
+            "name": "Confidence",
+            "code": "000002bd",
+            "is_dlc": false
+        },
+        {
+            "name": "Energy",
+            "code": "000002be",
+            "is_dlc": false
+        },
+        {
+            "name": "Morality",
+            "code": "000002bf",
+            "is_dlc": false
+        },
+        {
+            "name": "Assistance",
+            "code": "000002c1",
+            "is_dlc": false
+        },
+        {
+            "name": "DamageResist",
+            "code": "000002e3",
+            "is_dlc": false
+        },
+        {
+            "name": "PoisonResist",
+            "code": "000002e4",
+            "is_dlc": false
+        },
+        {
+            "name": "FireResist",
+            "code": "000002e5",
+            "is_dlc": false
+        },
+        {
+            "name": "ElectricResist",
+            "code": "000002e6",
+            "is_dlc": false
+        },
+        {
+            "name": "FrostResist",
+            "code": "000002e7",
+            "is_dlc": false
+        },
+        {
+            "name": "RadResistIngestion",
+            "code": "000002e9",
+            "is_dlc": false
+        },
+        {
+            "name": "RadResistExposure",
+            "code": "000002ea",
+            "is_dlc": false
+        },
+        {
+            "name": "EnergyResist",
+            "code": "000002eb",
+            "is_dlc": false
+        },
+        {
+            "name": "Invisibility",
+            "code": "000002f3",
+            "is_dlc": false
+        },
+        {
+            "name": "AttackDamageMult",
+            "code": "00000357",
+            "is_dlc": false
+        },
+        {
+            "name": "PerceptionCondition",
+            "code": "0000036c",
+            "is_dlc": false
+        },
+        {
+            "name": "EnduranceCondition",
+            "code": "0000036d",
+            "is_dlc": false
+        }
+    ],
+    "weather": [
+        {
+            "name": "DefaultWeather",
+            "code": "0000015E",
+            "is_dlc": false
+        },
+        {
+            "name": "FXDiamondSunlightBounce",
+            "code": "0000116B",
+            "is_dlc": false
+        },
+        {
+            "name": "DiamondWeather",
+            "code": "0000116D",
+            "is_dlc": false
+        },
+        {
+            "name": "DiamondWeatherPastel",
+            "code": "0000116E",
+            "is_dlc": false
+        },
+        {
+            "name": "1stWeather",
+            "code": "000016EC",
+            "is_dlc": false
+        },
+        {
+            "name": "FXWthrSunlightOffAtNight",
+            "code": "00029BB8",
+            "is_dlc": false
+        },
+        {
+            "name": "CommonwealthClear",
+            "code": "0002852A",
+            "is_dlc": false
+        },
+        {
+            "name": "FXWthrInvertDayNight",
+            "code": "0006ED5A",
+            "is_dlc": false
+        },
+        {
+            "name": "FXConcord01",
+            "code": "000747C8",
+            "is_dlc": false
+        },
+        {
+            "name": "FXWthrSunlight",
+            "code": "0007548F",
+            "is_dlc": false
+        },
+        {
+            "name": "FXWthrSunliqhtWhite",
+            "code": "00075491",
+            "is_dlc": false
+        },
+        {
+            "name": "FXConcord01OffatNight",
+            "code": "00076A58",
+            "is_dlc": false
+        },
+        {
+            "name": "FXWthrInvertDayNighWa",
+            "code": "000777CF",
+            "is_dlc": false
+        },
+        {
+            "name": "FXWthrMoonliqhtOnly",
+            "code": "00088C57",
+            "is_dlc": false
+        },
+        {
+            "name": "FXWthrMorningOnly",
+            "code": "00096C61",
+            "is_dlc": false
+        },
+        {
+            "name": "NeutralWeather",
+            "code": "000A1588",
+            "is_dlc": false
+        },
+        {
+            "name": "WorldMapWeather",
+            "code": "000A6858",
+            "is_dlc": false
+        },
+        {
+            "name": "MQ203Weather",
+            "code": "000DB2A1",
+            "is_dlc": false
+        },
+        {
+            "name": "CommonwealthGSOvercast",
+            "code": "000F1033",
+            "is_dlc": false
+        },
+        {
+            "name": "PrewarPlayerHouseInteriorWeather",
+            "code": "000FF98F",
+            "is_dlc": false
+        },
+        {
+            "name": "FXInstituteDayNightCycle",
+            "code": "00108640",
+            "is_dlc": false
+        },
+        {
+            "name": "FXInstituteDayNightCycleKey",
+            "code": "0010D573",
+            "is_dlc": false
+        },
+        {
+            "name": "EditorCloudPreview",
+            "code": "0010E3D4",
+            "is_dlc": false
+        },
+        {
+            "name": "TCommonwealthMarshOvercast",
+            "code": "0010F781",
+            "is_dlc": false
+        },
+        {
+            "name": "GoodneighborWeatherBase",
+            "code": "00115C64",
+            "is_dlc": false
+        },
+        {
+            "name": "NeutralOvercast",
+            "code": "001209AF",
+            "is_dlc": false
+        },
+        {
+            "name": "FXNukeWeather",
+            "code": "001256FB",
+            "is_dlc": false
+        },
+        {
+            "name": "CommonwealthSanctuaryClear",
+            "code": "0012A18E",
+            "is_dlc": false
+        },
+        {
+            "name": "FXWthrSunliqhtWhiteBounce",
+            "code": "00141AB4",
+            "is_dlc": false
+        },
+        {
+            "name": "DefaultlnteriorWeatherNoLUT",
+            "code": "00171621",
+            "is_dlc": false
+        },
+        {
+            "name": "FXWthrSunliqhtOffAtNiqhtGlass",
+            "code": "00171636",
+            "is_dlc": false
+        }
+    ],
+    "perks": [
+        {
+            "name": "Iron Fist 1",
+            "code": "0001dafe",
+            "is_dlc": false
+        },
+        {
+            "name": "Iron Fist 2",
+            "code": "0001daff",
+            "is_dlc": false
+        },
+        {
+            "name": "Iron Fist 3",
+            "code": "0001db00",
+            "is_dlc": false
+        },
+        {
+            "name": "Iron Fist 4",
+            "code": "00065e42",
+            "is_dlc": false
+        },
+        {
+            "name": "Iron Fist 5",
+            "code": "00065e43",
+            "is_dlc": false
+        },
+        {
+            "name": "Big Leagues 1",
+            "code": "0004a0b5",
+            "is_dlc": false
+        },
+        {
+            "name": "Big Leagues 2",
+            "code": "000e36fc",
+            "is_dlc": false
+        },
+        {
+            "name": "Big Leagues 3",
+            "code": "000e36fd",
+            "is_dlc": false
+        },
+        {
+            "name": "Big Leagues 4",
+            "code": "000e36fe",
+            "is_dlc": false
+        },
+        {
+            "name": "Big Leagues 5",
+            "code": "00065e05",
+            "is_dlc": false
+        },
+        {
+            "name": "Armorer 1",
+            "code": "0004b254",
+            "is_dlc": false
+        },
+        {
+            "name": "Armorer 2",
+            "code": "0004b255",
+            "is_dlc": false
+        },
+        {
+            "name": "Armorer 3",
+            "code": "0004b256",
+            "is_dlc": false
+        },
+        {
+            "name": "Armorer 4",
+            "code": "001797ea",
+            "is_dlc": false
+        },
+        {
+            "name": "Blacksmith 1",
+            "code": "0004b253",
+            "is_dlc": false
+        },
+        {
+            "name": "Blacksmith 2",
+            "code": "0004b26a",
+            "is_dlc": false
+        },
+        {
+            "name": "Blacksmith 3",
+            "code": "000264d8",
+            "is_dlc": false
+        },
+        {
+            "name": "Heavy Gunner 1",
+            "code": "0004a0d6",
+            "is_dlc": false
+        },
+        {
+            "name": "Heavy Gunner 2",
+            "code": "0004a0d7",
+            "is_dlc": false
+        },
+        {
+            "name": "Heavy Gunner 3",
+            "code": "0004a0d8",
+            "is_dlc": false
+        },
+        {
+            "name": "Heavy Gunner 4",
+            "code": "00065e2a",
+            "is_dlc": false
+        },
+        {
+            "name": "Heavy Gunner 5",
+            "code": "00065e2b",
+            "is_dlc": false
+        },
+        {
+            "name": "Strong Back 1",
+            "code": "0004b24e",
+            "is_dlc": false
+        },
+        {
+            "name": "Strong Back 2",
+            "code": "00065e5b",
+            "is_dlc": false
+        },
+        {
+            "name": "Strong Back 3",
+            "code": "00065e5c",
+            "is_dlc": false
+        },
+        {
+            "name": "Strong Back 4",
+            "code": "001d2489",
+            "is_dlc": false
+        },
+        {
+            "name": "Strong Back 5",
+            "code": "xx0423a3",
+            "is_dlc": false
+        },
+        {
+            "name": "Steady Aim 1",
+            "code": "001d2487",
+            "is_dlc": false
+        },
+        {
+            "name": "Steady Aim 2",
+            "code": "001d2488",
+            "is_dlc": false
+        },
+        {
+            "name": "Steady Aim 3",
+            "code": "xx028a23",
+            "is_dlc": false
+        },
+        {
+            "name": "Basher 1",
+            "code": "00065df9",
+            "is_dlc": false
+        }
+    ],
+    "factions": [
+        {
+            "name": "Acadia",
+            "code": "xx000000",
+            "is_dlc": false
+        },
+        {
+            "name": "Alien faction",
+            "code": "001f6113",
+            "is_dlc": false
+        },
+        {
+            "name": "Alien faction",
+            "code": "0023b858",
+            "is_dlc": false
+        },
+        {
+            "name": "AJ's faction",
+            "code": "00128cef",
+            "is_dlc": false
+        },
+        {
+            "name": "Atom Cats",
+            "code": "00048641",
+            "is_dlc": false
+        },
+        {
+            "name": "Virgil's faction",
+            "code": "000addf7",
+            "is_dlc": false
+        },
+        {
+            "name": "Bullet's Gunner faction",
+            "code": "00106ca3",
+            "is_dlc": false
+        },
+        {
+            "name": "Children of Atom Crater of Atom",
+            "code": "00134270",
+            "is_dlc": false
+        },
+        {
+            "name": "Children of Atom Hostile",
+            "code": "xx02fb84",
+            "is_dlc": false
+        },
+        {
+            "name": "Covenant",
+            "code": "000f0c6a",
+            "is_dlc": false
+        },
+        {
+            "name": "Diamond City security",
+            "code": "00002f65",
+            "is_dlc": false
+        },
+        {
+            "name": "Disciples",
+            "code": "xx00f438",
+            "is_dlc": false
+        },
+        {
+            "name": "Eddie Winter's Old crime faction",
+            "code": "0014bf23",
+            "is_dlc": false
+        },
+        {
+            "name": "Forged",
+            "code": "0013101d",
+            "is_dlc": false
+        },
+        {
+            "name": "Gunners",
+            "code": "00058303",
+            "is_dlc": false
+        },
+        {
+            "name": "Ironsides' robotic crew",
+            "code": "0008c9db",
+            "is_dlc": false
+        },
+        {
+            "name": "Merchant business",
+            "code": "001338e7",
+            "is_dlc": false
+        },
+        {
+            "name": "Nahant robot faction",
+            "code": "0007ee3f",
+            "is_dlc": false
+        },
+        {
+            "name": "Neighborhood Watch",
+            "code": "000e1acc",
+            "is_dlc": false
+        },
+        {
+            "name": "Operators",
+            "code": "xx00f439",
+            "is_dlc": false
+        },
+        {
+            "name": "The Pack",
+            "code": "xx00f43a",
+            "is_dlc": false
+        },
+        {
+            "name": "Pillars of the Community",
+            "code": "000bbf88",
+            "is_dlc": false
+        },
+        {
+            "name": "Raiders",
+            "code": "0001cbed",
+            "is_dlc": false
+        },
+        {
+            "name": "Recon Bunker Theta Brotherhood faction",
+            "code": "000b3d7d",
+            "is_dlc": false
+        },
+        {
+            "name": "Rust Devils",
+            "code": "xx004385",
+            "is_dlc": false
+        },
+        {
+            "name": "Scientists faction",
+            "code": "0022d9ee",
+            "is_dlc": false
+        },
+        {
+            "name": "Scientists faction",
+            "code": "0022d9ef",
+            "is_dlc": false
+        },
+        {
+            "name": "Scientists faction",
+            "code": "0024800b",
+            "is_dlc": false
+        },
+        {
+            "name": "Synths faction",
+            "code": "00249966",
+            "is_dlc": false
+        },
+        {
+            "name": "Synths faction",
+            "code": "00249967",
+            "is_dlc": false
+        },
+        {
+            "name": "Triggermen",
+            "code": "00083ad0",
+            "is_dlc": false
+        }
     ]
 }

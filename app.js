@@ -52,6 +52,10 @@ function json_list() {
             var key = $("#filter__key").is(":checked")
             var misc = $("#filter__misc").is(":checked")
             var junk = $("#filter__junk").is(":checked")
+            var chars_vars = null;
+            var weather = null;
+            var perks = null;
+            var factions = null;
 
             var result = []; // input
             result = result.concat(
@@ -69,6 +73,7 @@ function json_list() {
                 junk ? result.concat(json.junk) : undefined
             )
 
+            $(".response .no-items").remove();
             custom_string == "" ? $("#list-response").html(`
                 <tr class="header">
                     <th>Name</th>
@@ -111,10 +116,13 @@ function json_list() {
                 `)
             })
 
-            $("#list-response:not(.header)").each(function () {
-                if (this.length == 0)
-                    $(this).append("t")
-            })
+            if ($("#list-response:not(.header) td").length == 0) {
+                $(".response").append(`
+                    <div class="no-items">
+                        No items can be shown if all filters are off, if its not the filters then it is our website.
+                    </div>
+                `)
+            }
 
             model(); // model support
         })
