@@ -139,8 +139,15 @@ a:hover {
     padding: 0px 0px 0px 3px;
 }
 
+.content > .actions .filters .filters-wrap .filter-checkbox {
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    padding: 5px 0px 5px 0px;
+    vertical-align: middle;
+}
+
 .content > .actions .filters .filters-wrap .filter-checkbox span {
-    padding: 0px 0px 10px 18px;
+    margin: -7.5px;
 }
 
 .content > .actions .filters .filters-wrap input[type="checkbox"] {
@@ -347,6 +354,12 @@ a:hover {
     .overlay {
         padding-top: 50px;
         padding-bottom: 50px;
+    }
+
+    .content > .actions > .buttons {
+        display: grid;
+        grid-template-columns: max-content max-content;
+        gap: 1em;
     }
 
     .overlay > .model#dlc-info,

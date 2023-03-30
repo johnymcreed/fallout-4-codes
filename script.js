@@ -185,8 +185,9 @@
             }))
         })
 
-        if (localStorage.getItem("search_quota") != "")
-            $("#search").attr("placeholder", `Last search: ${localStorage.getItem("search_quota")}`)
+        if (localStorage.getItem("search_quota") !== null)
+            if (localStorage.getItem("search_quota") != "")
+                $("#search").attr("placeholder", `Last search: ${localStorage.getItem("search_quota")}`)
 
         if (localStorage.getItem("generator_quote") != "")
             $("#gen-write").val(localStorage.getItem("generator_quota"))
