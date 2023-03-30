@@ -23,17 +23,18 @@
         </div>
         <div class="wrapper breadcrumb">
             <div id="date"></div>
-            <div id="clock"></div>
+            <div id="time"></div>
         </div>
         <div class="wrapper content">
             <div class="actions">
                 <div class="buttons" id="actions_buttons">
                     <a id="gen">Command Generator</a>
-                    <a href="./app.json">Json file</a>
+                    <a id="help">Help</a>
+                    <a href="./list.json">Json file</a>
                     <a id="creds">Credits</a>
                 </div>
                 <div class="filters" id="actions_filters">
-                    <h1>Filters</h1>
+                    <h1>Filters <span class="filters-total">(<span id="items-total"></span>)</span></h1>
                     <div class="filters-wrap">
                         <div class="filter-checkbox">
                             <input id="filter__dlc" type="checkbox" checked>
@@ -106,7 +107,7 @@
                     </div>
                 </div>
                 <div class="search" id="actions_search">
-                    <input type="text" class="search" placeholder="Search for a specific item within this list." autocapitalize="off" autocomplete="off">
+                    <input type="text" class="search" id="search" placeholder="Search for a specific item within this list." autocapitalize="off" autocomplete="off">
                 </div>
             </div>
             <div class="response">
@@ -202,9 +203,43 @@
                     </div>
                 </div>
             </div>
+            <div class="model" id="help-info">
+                <h1>General help for F4C</h1>
+                <p>
+                    This <b>IS NOT</b> a complex website and is designed to simplify the complexity some websites attempt to make things, please read through what each thing does so you do not get lost.
+                </p>
+                <div style="display: flex; margin-top: 1em;">
+                    <table style="width: 90%;">
+                        <tr>
+                            <th style="text-align: left;">Question</th>
+                            <th style="text-align: left;">Answer</th>
+                        </tr>
+                        <tr>
+                            <td>Copy text?</td>
+                            <td>Yes, click on any cell within the list to copy the text within it.</td>
+                        </tr>
+                        <tr>
+                            <td>Does filter settings save?</td>
+                            <td>Yes, it will also save what you last typed within the search bar and command generator text area.</td>
+                        </tr>
+                        <tr>
+                            <td>Why is the list slow to load?</td>
+                            <td>Sadly when having so many objects loading it will always put load on the page, please just wait its better than other websites.</td>
+                        </tr>
+                        <tr>
+                            <td>What are DLC Codes?</td>
+                            <td>They are required at the front of any ID that is a DLC from fallout 4, please go here if you need a more detailed look <a href="https://gamerant.com/fallout-4-dlc-story-workshop-expansions-high-res-texture-pack-worth/">Here</a></td>
+                        </tr>
+                        <tr>
+                            <td>What commands are there?</td>
+                            <td>There are many commands but that is not what this website is oriented for so go <a href="https://www.pcgamer.com/fallout-4-cheats-and-console-commands-can-turn-you-into-a-superhero/">Here</a> for more information.</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
         </div>
         <div class="back-to-top" id="to-top" style="transform: rotate(-90deg);"><span>&#10132;</span></div>
     </body>
     <script src="./jquery.js"></script>
-    <script src="./app.js"></script>
+    <script src="./script.js"></script>
 </html>
